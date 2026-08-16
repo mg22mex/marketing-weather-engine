@@ -27,6 +27,8 @@ An automated decision-intelligence pipeline for Weatherman. **Phase 1** proves w
 
 **Live dashboard:** deploy `dashboard.py` on [Streamlit Community Cloud](https://share.streamlit.io) (public app). The app reads committed CSVs from this repo—no API keys required on Streamlit itself.
 
+**Clone size:** keep `main` lean. Full SKU ledgers, `data/history/weather/`, and `data/cleaned_omnichannel_sales.csv` are **gitignored** (local/CI only). If Streamlit gets stuck on “Cloning repository…”, the remote history still contains old ~100MB blobs — rewrite/force-push a lean tip (see `scripts/stage_intel_artifacts.sh` + history purge).
+
 ```mermaid
 flowchart LR
   subgraph sources [Data sources]
