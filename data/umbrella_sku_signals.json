@@ -1,0 +1,8 @@
+{
+  "mode": "exclude_sun",
+  "notes": "Weatherman catalog is primarily umbrellas. Treat SKUs as umbrella sales unless they match sun-protection excludes. Switch mode to include_only and fill include_prefixes once a full SKU map is available.",
+  "include_prefixes": [],
+  "include_contains": ["umb", "brella", "trek", "walk umb", "golf umb"],
+  "exclude_prefixes": ["HS01", "HS0", "SLS01"],
+  "exclude_contains": ["hat", "shirt", "hoodie", "sunprot", "sun-prot"]
+}

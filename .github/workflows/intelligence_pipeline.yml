@@ -1,0 +1,130 @@
+name: Intelligence Pipeline (Weather + Sales + Bridge)
+
+on:
+  schedule:
+    # Daily after weather pulse (~10:30 UTC)
+    - cron: "30 10 * * *"
+  workflow_dispatch:
+    inputs:
+      max_attempts:
+        description: Max attempts (first run + retries until success)
+        type: number
+        default: 5
+      retry_wait_minutes:
+        description: Minutes to wait between failed attempts
+        type: number
+        default: 60
+
+permissions:
+  contents: write
+
+env:
+  CI_RETRY_MAX_ATTEMPTS: ${{ vars.CI_RETRY_MAX_ATTEMPTS || '5' }}
+  CI_RETRY_WAIT_SECONDS: ${{ vars.CI_RETRY_WAIT_SECONDS || '3600' }}
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Sync latest main
+        run: git pull origin main --rebase
+
+      - name: Resolve retry settings
+        id: retry
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "max=${{ github.event.inputs.max_attempts }}" >> "$GITHUB_OUTPUT"
+            echo "wait_seconds=$(( ${{ github.event.inputs.retry_wait_minutes }} * 60 ))" >> "$GITHUB_OUTPUT"
+          else
+            echo "max=${CI_RETRY_MAX_ATTEMPTS}" >> "$GITHUB_OUTPUT"
+            echo "wait_seconds=${CI_RETRY_WAIT_SECONDS}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run automated intelligence pipeline (retry on failure)
+        env:
+          TRIPLE_WHALE_API_KEY: ${{ secrets.TRIPLE_WHALE_API_KEY }}
+          GOOGLE_CREDS_JSON: ${{ secrets.GOOGLE_CREDS_JSON }}
+        run: |
+          chmod +x scripts/ci_retry.sh
+          ./scripts/ci_retry.sh \
+            --max "${{ steps.retry.outputs.max }}" \
+            --wait-seconds "${{ steps.retry.outputs.wait_seconds }}" \
+            -- python run_intel_pipeline.py --skip-weather
+
+      - name: Commit bridge + source artifacts
+        if: success()
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin main
+          # Re-anchor to remote main; keep pipeline outputs as unstaged working-tree changes.
+          git reset --mixed origin/main
+
+          # Weather Pulse workflow owns these files — pin to remote and never commit them here.
+          git checkout origin/main -- \
+            marketing_weather_report_us.csv \
+            marketing_weather_report_uk.csv \
+            marketing_weather_report_can.csv
+
+          # Stage lean artifacts only (skips >95MB SKU ledgers that break GH hard limits).
+          chmod +x scripts/stage_intel_artifacts.sh
+          ./scripts/stage_intel_artifacts.sh
+
+          if git diff --cached --name-only | grep -qE '^(marketing_weather_report|data/history/weather/)'; then
+            echo "ERROR: weather outputs must not be committed by intelligence pipeline."
+            git diff --cached --name-only
+            exit 1
+          fi
+
+          if git diff --staged --quiet; then
+            echo "No pipeline changes to commit."
+            exit 0
+          fi
+
+          echo "Committing:"
+          git diff --cached --name-only
+          git diff --cached --stat || true
+
+          git commit -m "Auto-update: intelligence pipeline $(date -u +%Y-%m-%d)"
+
+          for attempt in 1 2 3 4 5; do
+            if git push origin main; then
+              echo "Push succeeded on attempt ${attempt}."
+              exit 0
+            fi
+            echo "Push rejected (attempt ${attempt}); rebasing onto origin/main..."
+            git fetch origin main
+            # Stash unstaged local debris (oversized ledgers) so rebase can run cleanly.
+            git stash push -u -m "ci-pre-rebase-${attempt}" -- \
+              data/weather_pulse_sales_bridge_master_preview.csv \
+              data/weather_pulse_sales_bridge_us_preview.csv \
+              data/history/sales_ledger.csv \
+              raw_data/sales_data_bridge.csv \
+              2>/dev/null || true
+            if ! git rebase origin/main; then
+              git rebase --abort 2>/dev/null || true
+              git stash pop 2>/dev/null || true
+              echo "Rebase failed on attempt ${attempt}."
+              continue
+            fi
+            git stash pop 2>/dev/null || true
+          done
+          echo "Push failed after retries."
+          exit 1

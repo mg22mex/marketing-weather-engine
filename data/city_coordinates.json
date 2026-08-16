@@ -1,0 +1,2439 @@
+{
+  "generated_by": "scripts/generate_city_coordinates.py",
+  "orders_source": "data/orders_by_city.csv",
+  "row_count": 347,
+  "geocode_failures": [
+    "US DC Bogota"
+  ],
+  "rows": [
+    {
+      "region": "US",
+      "state": "Alaska",
+      "city": "Anchorage",
+      "lat": 61.21806,
+      "lon": -149.90028
+    },
+    {
+      "region": "US",
+      "state": "Alaska",
+      "city": "Fairbanks",
+      "lat": 64.83778,
+      "lon": -147.71638
+    },
+    {
+      "region": "US",
+      "state": "Alaska",
+      "city": "Sitka",
+      "lat": 57.05315,
+      "lon": -135.33089
+    },
+    {
+      "region": "US",
+      "state": "Alaska",
+      "city": "Cordova",
+      "lat": 60.5432,
+      "lon": -145.75867
+    },
+    {
+      "region": "US",
+      "state": "Alaska",
+      "city": "Wasilla",
+      "lat": 61.5809,
+      "lon": -149.4415
+    },
+    {
+      "region": "US",
+      "state": "Alabama",
+      "city": "Birmingham",
+      "lat": 33.52066,
+      "lon": -86.80249
+    },
+    {
+      "region": "US",
+      "state": "Alabama",
+      "city": "Huntsville",
+      "lat": 34.7304,
+      "lon": -86.58594
+    },
+    {
+      "region": "US",
+      "state": "Alabama",
+      "city": "Mobile",
+      "lat": 30.69436,
+      "lon": -88.04305
+    },
+    {
+      "region": "US",
+      "state": "Alabama",
+      "city": "Madison",
+      "lat": 34.69926,
+      "lon": -86.74833
+    },
+    {
+      "region": "US",
+      "state": "Alabama",
+      "city": "Fairhope",
+      "lat": 30.52297,
+      "lon": -87.90333
+    },
+    {
+      "region": "US",
+      "state": "Arkansas",
+      "city": "Little Rock",
+      "lat": 34.74648,
+      "lon": -92.28959
+    },
+    {
+      "region": "US",
+      "state": "Arkansas",
+      "city": "Jonesboro",
+      "lat": 35.8423,
+      "lon": -90.70428
+    },
+    {
+      "region": "US",
+      "state": "Arkansas",
+      "city": "Bentonville",
+      "lat": 36.37285,
+      "lon": -94.20882
+    },
+    {
+      "region": "US",
+      "state": "Arkansas",
+      "city": "Fayetteville",
+      "lat": 36.06258,
+      "lon": -94.15743
+    },
+    {
+      "region": "US",
+      "state": "Arkansas",
+      "city": "Rogers",
+      "lat": 36.33202,
+      "lon": -94.11854
+    },
+    {
+      "region": "US",
+      "state": "Arizona",
+      "city": "Phoenix",
+      "lat": 33.44838,
+      "lon": -112.07404
+    },
+    {
+      "region": "US",
+      "state": "Arizona",
+      "city": "Tucson",
+      "lat": 32.22174,
+      "lon": -110.92648
+    },
+    {
+      "region": "US",
+      "state": "Arizona",
+      "city": "Scottsdale",
+      "lat": 33.50921,
+      "lon": -111.89903
+    },
+    {
+      "region": "US",
+      "state": "Arizona",
+      "city": "Gilbert",
+      "lat": 33.35283,
+      "lon": -111.78903
+    },
+    {
+      "region": "US",
+      "state": "Arizona",
+      "city": "Mesa",
+      "lat": 33.42227,
+      "lon": -111.82264
+    },
+    {
+      "region": "US",
+      "state": "California",
+      "city": "Los Angeles",
+      "lat": 34.05223,
+      "lon": -118.24368
+    },
+    {
+      "region": "US",
+      "state": "California",
+      "city": "San Francisco",
+      "lat": 37.77493,
+      "lon": -122.41942
+    },
+    {
+      "region": "US",
+      "state": "California",
+      "city": "San Diego",
+      "lat": 32.71571,
+      "lon": -117.16472
+    },
+    {
+      "region": "US",
+      "state": "California",
+      "city": "San Jose",
+      "lat": 37.33939,
+      "lon": -121.89496
+    },
+    {
+      "region": "US",
+      "state": "California",
+      "city": "Oakland",
+      "lat": 37.80437,
+      "lon": -122.2708
+    },
+    {
+      "region": "US",
+      "state": "Colorado",
+      "city": "Denver",
+      "lat": 39.73915,
+      "lon": -104.9847
+    },
+    {
+      "region": "US",
+      "state": "Colorado",
+      "city": "Colorado Springs",
+      "lat": 38.83388,
+      "lon": -104.82136
+    },
+    {
+      "region": "US",
+      "state": "Colorado",
+      "city": "Littleton",
+      "lat": 39.61332,
+      "lon": -105.01665
+    },
+    {
+      "region": "US",
+      "state": "Colorado",
+      "city": "Aurora",
+      "lat": 39.72943,
+      "lon": -104.83192
+    },
+    {
+      "region": "US",
+      "state": "Colorado",
+      "city": "Fort Collins",
+      "lat": 40.58526,
+      "lon": -105.08442
+    },
+    {
+      "region": "US",
+      "state": "Connecticut",
+      "city": "Norwalk",
+      "lat": 41.1176,
+      "lon": -73.4079
+    },
+    {
+      "region": "US",
+      "state": "Connecticut",
+      "city": "Greenwich",
+      "lat": 41.02649,
+      "lon": -73.62846
+    },
+    {
+      "region": "US",
+      "state": "Connecticut",
+      "city": "Stamford",
+      "lat": 41.05343,
+      "lon": -73.53873
+    },
+    {
+      "region": "US",
+      "state": "Connecticut",
+      "city": "Fairfield",
+      "lat": 41.14121,
+      "lon": -73.26373
+    },
+    {
+      "region": "US",
+      "state": "Connecticut",
+      "city": "New Canaan",
+      "lat": 41.14676,
+      "lon": -73.49484
+    },
+    {
+      "region": "US",
+      "state": "Delaware",
+      "city": "Wilmington",
+      "lat": 39.74595,
+      "lon": -75.54659
+    },
+    {
+      "region": "US",
+      "state": "Delaware",
+      "city": "New Castle",
+      "lat": 39.65948,
+      "lon": -75.56359
+    },
+    {
+      "region": "US",
+      "state": "Delaware",
+      "city": "Lewes",
+      "lat": 38.77456,
+      "lon": -75.13935
+    },
+    {
+      "region": "US",
+      "state": "Delaware",
+      "city": "Newark",
+      "lat": 39.68372,
+      "lon": -75.74966
+    },
+    {
+      "region": "US",
+      "state": "Delaware",
+      "city": "Middletown",
+      "lat": 39.44956,
+      "lon": -75.71632
+    },
+    {
+      "region": "US",
+      "state": "Florida",
+      "city": "Miami",
+      "lat": 25.77427,
+      "lon": -80.19366
+    },
+    {
+      "region": "US",
+      "state": "Florida",
+      "city": "Orlando",
+      "lat": 28.53834,
+      "lon": -81.37924
+    },
+    {
+      "region": "US",
+      "state": "Florida",
+      "city": "Naples",
+      "lat": 26.14234,
+      "lon": -81.79596
+    },
+    {
+      "region": "US",
+      "state": "Florida",
+      "city": "Tampa",
+      "lat": 27.94752,
+      "lon": -82.45843
+    },
+    {
+      "region": "US",
+      "state": "Florida",
+      "city": "Boca Raton",
+      "lat": 26.35869,
+      "lon": -80.0831
+    },
+    {
+      "region": "US",
+      "state": "Georgia",
+      "city": "Atlanta",
+      "lat": 33.749,
+      "lon": -84.38798
+    },
+    {
+      "region": "US",
+      "state": "Georgia",
+      "city": "Marietta",
+      "lat": 33.9526,
+      "lon": -84.54993
+    },
+    {
+      "region": "US",
+      "state": "Georgia",
+      "city": "Savannah",
+      "lat": 32.08354,
+      "lon": -81.09983
+    },
+    {
+      "region": "US",
+      "state": "Georgia",
+      "city": "Alpharetta",
+      "lat": 34.07538,
+      "lon": -84.29409
+    },
+    {
+      "region": "US",
+      "state": "Georgia",
+      "city": "Decatur",
+      "lat": 33.77483,
+      "lon": -84.29631
+    },
+    {
+      "region": "US",
+      "state": "Hawaii",
+      "city": "Honolulu",
+      "lat": 21.30694,
+      "lon": -157.85834
+    },
+    {
+      "region": "US",
+      "state": "Hawaii",
+      "city": "Mililani",
+      "lat": 21.4504,
+      "lon": -158.01503
+    },
+    {
+      "region": "US",
+      "state": "Hawaii",
+      "city": "Ewa Beach",
+      "lat": 21.31556,
+      "lon": -158.00722
+    },
+    {
+      "region": "US",
+      "state": "Hawaii",
+      "city": "Kailua",
+      "lat": 21.40241,
+      "lon": -157.74054
+    },
+    {
+      "region": "US",
+      "state": "Hawaii",
+      "city": "Kaneohe",
+      "lat": 21.39994,
+      "lon": -157.79895
+    },
+    {
+      "region": "US",
+      "state": "Iowa",
+      "city": "Cedar Rapids",
+      "lat": 42.00833,
+      "lon": -91.64407
+    },
+    {
+      "region": "US",
+      "state": "Iowa",
+      "city": "Iowa City",
+      "lat": 41.66113,
+      "lon": -91.53017
+    },
+    {
+      "region": "US",
+      "state": "Iowa",
+      "city": "Des Moines",
+      "lat": 41.60054,
+      "lon": -93.60911
+    },
+    {
+      "region": "US",
+      "state": "Iowa",
+      "city": "Ames",
+      "lat": 42.03471,
+      "lon": -93.61994
+    },
+    {
+      "region": "US",
+      "state": "Iowa",
+      "city": "West Des Moines",
+      "lat": 41.57721,
+      "lon": -93.71133
+    },
+    {
+      "region": "US",
+      "state": "Idaho",
+      "city": "Boise",
+      "lat": 43.6135,
+      "lon": -116.20345
+    },
+    {
+      "region": "US",
+      "state": "Idaho",
+      "city": "Meridian",
+      "lat": 43.61211,
+      "lon": -116.39151
+    },
+    {
+      "region": "US",
+      "state": "Idaho",
+      "city": "Eagle",
+      "lat": 43.69544,
+      "lon": -116.35401
+    },
+    {
+      "region": "US",
+      "state": "Idaho",
+      "city": "Kuna",
+      "lat": 43.49183,
+      "lon": -116.42012
+    },
+    {
+      "region": "US",
+      "state": "Illinois",
+      "city": "Chicago",
+      "lat": 41.85003,
+      "lon": -87.65005
+    },
+    {
+      "region": "US",
+      "state": "Illinois",
+      "city": "Naperville",
+      "lat": 41.78586,
+      "lon": -88.14729
+    },
+    {
+      "region": "US",
+      "state": "Illinois",
+      "city": "Evanston",
+      "lat": 42.04114,
+      "lon": -87.69006
+    },
+    {
+      "region": "US",
+      "state": "Illinois",
+      "city": "Wilmette",
+      "lat": 42.07225,
+      "lon": -87.72284
+    },
+    {
+      "region": "US",
+      "state": "Illinois",
+      "city": "Downers Grove",
+      "lat": 41.80892,
+      "lon": -88.01117
+    },
+    {
+      "region": "US",
+      "state": "Indiana",
+      "city": "Indianapolis",
+      "lat": 39.76838,
+      "lon": -86.15804
+    },
+    {
+      "region": "US",
+      "state": "Indiana",
+      "city": "Carmel",
+      "lat": 39.97837,
+      "lon": -86.11804
+    },
+    {
+      "region": "US",
+      "state": "Indiana",
+      "city": "Fort Wayne",
+      "lat": 41.1306,
+      "lon": -85.12886
+    },
+    {
+      "region": "US",
+      "state": "Indiana",
+      "city": "Bloomington",
+      "lat": 39.16533,
+      "lon": -86.52639
+    },
+    {
+      "region": "US",
+      "state": "Indiana",
+      "city": "West Lafayette",
+      "lat": 40.42587,
+      "lon": -86.90807
+    },
+    {
+      "region": "US",
+      "state": "Kansas",
+      "city": "Wichita",
+      "lat": 37.69224,
+      "lon": -97.33754
+    },
+    {
+      "region": "US",
+      "state": "Kansas",
+      "city": "Overland Park",
+      "lat": 38.98223,
+      "lon": -94.67079
+    },
+    {
+      "region": "US",
+      "state": "Kansas",
+      "city": "Olathe",
+      "lat": 38.8814,
+      "lon": -94.81913
+    },
+    {
+      "region": "US",
+      "state": "Kansas",
+      "city": "Lawrence",
+      "lat": 38.97167,
+      "lon": -95.23525
+    },
+    {
+      "region": "US",
+      "state": "Kansas",
+      "city": "Leawood",
+      "lat": 38.96667,
+      "lon": -94.6169
+    },
+    {
+      "region": "US",
+      "state": "Kentucky",
+      "city": "Louisville",
+      "lat": 38.25424,
+      "lon": -85.75941
+    },
+    {
+      "region": "US",
+      "state": "Kentucky",
+      "city": "Lexington",
+      "lat": 37.98869,
+      "lon": -84.47772
+    },
+    {
+      "region": "US",
+      "state": "Kentucky",
+      "city": "Bowling Green",
+      "lat": 36.99032,
+      "lon": -86.4436
+    },
+    {
+      "region": "US",
+      "state": "Kentucky",
+      "city": "Paducah",
+      "lat": 37.08339,
+      "lon": -88.60005
+    },
+    {
+      "region": "US",
+      "state": "Kentucky",
+      "city": "Middlesboro",
+      "lat": 36.60842,
+      "lon": -83.71658
+    },
+    {
+      "region": "US",
+      "state": "Louisiana",
+      "city": "Baton Rouge",
+      "lat": 30.44332,
+      "lon": -91.18747
+    },
+    {
+      "region": "US",
+      "state": "Louisiana",
+      "city": "New Orleans",
+      "lat": 29.95465,
+      "lon": -90.07507
+    },
+    {
+      "region": "US",
+      "state": "Louisiana",
+      "city": "Lafayette",
+      "lat": 30.22409,
+      "lon": -92.01984
+    },
+    {
+      "region": "US",
+      "state": "Louisiana",
+      "city": "Shreveport",
+      "lat": 32.52515,
+      "lon": -93.75018
+    },
+    {
+      "region": "US",
+      "state": "Louisiana",
+      "city": "Metairie",
+      "lat": 29.98409,
+      "lon": -90.15285
+    },
+    {
+      "region": "US",
+      "state": "Massachusetts",
+      "city": "Reading",
+      "lat": 42.52565,
+      "lon": -71.09533
+    },
+    {
+      "region": "US",
+      "state": "Massachusetts",
+      "city": "Boston",
+      "lat": 42.35843,
+      "lon": -71.05977
+    },
+    {
+      "region": "US",
+      "state": "Massachusetts",
+      "city": "Cambridge",
+      "lat": 42.3751,
+      "lon": -71.10561
+    },
+    {
+      "region": "US",
+      "state": "Massachusetts",
+      "city": "Berkley",
+      "lat": 41.84593,
+      "lon": -71.08282
+    },
+    {
+      "region": "US",
+      "state": "Massachusetts",
+      "city": "Somerville",
+      "lat": 42.3876,
+      "lon": -71.0995
+    },
+    {
+      "region": "US",
+      "state": "Maryland",
+      "city": "Baltimore",
+      "lat": 39.29038,
+      "lon": -76.61219
+    },
+    {
+      "region": "US",
+      "state": "Maryland",
+      "city": "Bethesda",
+      "lat": 38.98067,
+      "lon": -77.10026
+    },
+    {
+      "region": "US",
+      "state": "Maryland",
+      "city": "Silver Spring",
+      "lat": 38.99067,
+      "lon": -77.02609
+    },
+    {
+      "region": "US",
+      "state": "Maryland",
+      "city": "Rockville",
+      "lat": 39.084,
+      "lon": -77.15276
+    },
+    {
+      "region": "US",
+      "state": "Maryland",
+      "city": "Annapolis",
+      "lat": 38.97859,
+      "lon": -76.49184
+    },
+    {
+      "region": "US",
+      "state": "Maine",
+      "city": "Portland",
+      "lat": 43.65737,
+      "lon": -70.2589
+    },
+    {
+      "region": "US",
+      "state": "Maine",
+      "city": "Scarborough",
+      "lat": 43.57814,
+      "lon": -70.32172
+    },
+    {
+      "region": "US",
+      "state": "Maine",
+      "city": "Falmouth",
+      "lat": 43.72953,
+      "lon": -70.24199
+    },
+    {
+      "region": "US",
+      "state": "Maine",
+      "city": "Bangor",
+      "lat": 44.79884,
+      "lon": -68.77265
+    },
+    {
+      "region": "US",
+      "state": "Maine",
+      "city": "Eliot",
+      "lat": 43.15314,
+      "lon": -70.80006
+    },
+    {
+      "region": "US",
+      "state": "Michigan",
+      "city": "Ann Arbor",
+      "lat": 42.27756,
+      "lon": -83.74088
+    },
+    {
+      "region": "US",
+      "state": "Michigan",
+      "city": "Grand Rapids",
+      "lat": 42.96336,
+      "lon": -85.66809
+    },
+    {
+      "region": "US",
+      "state": "Michigan",
+      "city": "Bloomfield Hills",
+      "lat": 42.58364,
+      "lon": -83.24549
+    },
+    {
+      "region": "US",
+      "state": "Michigan",
+      "city": "Plymouth",
+      "lat": 42.37143,
+      "lon": -83.47021
+    },
+    {
+      "region": "US",
+      "state": "Michigan",
+      "city": "Macomb",
+      "lat": 42.70087,
+      "lon": -82.95909
+    },
+    {
+      "region": "US",
+      "state": "Minnesota",
+      "city": "Minneapolis",
+      "lat": 44.97997,
+      "lon": -93.26384
+    },
+    {
+      "region": "US",
+      "state": "Minnesota",
+      "city": "Saint Paul",
+      "lat": 44.94441,
+      "lon": -93.09327
+    },
+    {
+      "region": "US",
+      "state": "Minnesota",
+      "city": "Plymouth",
+      "lat": 45.01052,
+      "lon": -93.45551
+    },
+    {
+      "region": "US",
+      "state": "Minnesota",
+      "city": "Minnetonka",
+      "lat": 44.9133,
+      "lon": -93.50329
+    },
+    {
+      "region": "US",
+      "state": "Minnesota",
+      "city": "Eden Prairie",
+      "lat": 44.85469,
+      "lon": -93.47079
+    },
+    {
+      "region": "US",
+      "state": "Missouri",
+      "city": "Saint Louis",
+      "lat": 38.65174,
+      "lon": -90.20525
+    },
+    {
+      "region": "US",
+      "state": "Missouri",
+      "city": "Kansas City",
+      "lat": 39.09973,
+      "lon": -94.57857
+    },
+    {
+      "region": "US",
+      "state": "Missouri",
+      "city": "Chesterfield",
+      "lat": 38.66311,
+      "lon": -90.57707
+    },
+    {
+      "region": "US",
+      "state": "Missouri",
+      "city": "Saint Charles",
+      "lat": 38.78394,
+      "lon": -90.48123
+    },
+    {
+      "region": "US",
+      "state": "Missouri",
+      "city": "Springfield",
+      "lat": 37.21533,
+      "lon": -93.29824
+    },
+    {
+      "region": "US",
+      "state": "Mississippi",
+      "city": "Madison",
+      "lat": 32.46181,
+      "lon": -90.11536
+    },
+    {
+      "region": "US",
+      "state": "Mississippi",
+      "city": "Gulfport",
+      "lat": 30.36742,
+      "lon": -89.09282
+    },
+    {
+      "region": "US",
+      "state": "Mississippi",
+      "city": "Hattiesburg",
+      "lat": 31.32712,
+      "lon": -89.29034
+    },
+    {
+      "region": "US",
+      "state": "Mississippi",
+      "city": "Jackson",
+      "lat": 32.29876,
+      "lon": -90.18481
+    },
+    {
+      "region": "US",
+      "state": "Mississippi",
+      "city": "Southaven",
+      "lat": 34.98898,
+      "lon": -90.01259
+    },
+    {
+      "region": "US",
+      "state": "Montana",
+      "city": "Bozeman",
+      "lat": 45.67965,
+      "lon": -111.03856
+    },
+    {
+      "region": "US",
+      "state": "Montana",
+      "city": "Billings",
+      "lat": 45.78329,
+      "lon": -108.50069
+    },
+    {
+      "region": "US",
+      "state": "Montana",
+      "city": "Great Falls",
+      "lat": 47.50024,
+      "lon": -111.30081
+    },
+    {
+      "region": "US",
+      "state": "Montana",
+      "city": "Missoula",
+      "lat": 46.87215,
+      "lon": -113.994
+    },
+    {
+      "region": "US",
+      "state": "Montana",
+      "city": "Kalispell",
+      "lat": 48.19579,
+      "lon": -114.31291
+    },
+    {
+      "region": "US",
+      "state": "North Carolina",
+      "city": "Charlotte",
+      "lat": 35.22709,
+      "lon": -80.84313
+    },
+    {
+      "region": "US",
+      "state": "North Carolina",
+      "city": "Raleigh",
+      "lat": 35.7721,
+      "lon": -78.63861
+    },
+    {
+      "region": "US",
+      "state": "North Carolina",
+      "city": "Durham",
+      "lat": 35.99403,
+      "lon": -78.89862
+    },
+    {
+      "region": "US",
+      "state": "North Carolina",
+      "city": "Wilmington",
+      "lat": 34.23556,
+      "lon": -77.94604
+    },
+    {
+      "region": "US",
+      "state": "North Carolina",
+      "city": "Chapel Hill",
+      "lat": 35.9132,
+      "lon": -79.05584
+    },
+    {
+      "region": "US",
+      "state": "North Dakota",
+      "city": "Fargo",
+      "lat": 46.87719,
+      "lon": -96.7898
+    },
+    {
+      "region": "US",
+      "state": "North Dakota",
+      "city": "West Fargo",
+      "lat": 46.87497,
+      "lon": -96.90036
+    },
+    {
+      "region": "US",
+      "state": "North Dakota",
+      "city": "Bismarck",
+      "lat": 46.80833,
+      "lon": -100.78374
+    },
+    {
+      "region": "US",
+      "state": "North Dakota",
+      "city": "Dickinson",
+      "lat": 46.87918,
+      "lon": -102.78962
+    },
+    {
+      "region": "US",
+      "state": "North Dakota",
+      "city": "Grand Forks",
+      "lat": 47.92526,
+      "lon": -97.03285
+    },
+    {
+      "region": "US",
+      "state": "Nebraska",
+      "city": "Omaha",
+      "lat": 41.25626,
+      "lon": -95.94043
+    },
+    {
+      "region": "US",
+      "state": "Nebraska",
+      "city": "Lincoln",
+      "lat": 40.8,
+      "lon": -96.66696
+    },
+    {
+      "region": "US",
+      "state": "Nebraska",
+      "city": "Elkhorn",
+      "lat": 41.345,
+      "lon": -96.256
+    },
+    {
+      "region": "US",
+      "state": "Nebraska",
+      "city": "Bellevue",
+      "lat": 41.13667,
+      "lon": -95.89084
+    },
+    {
+      "region": "US",
+      "state": "Nebraska",
+      "city": "Papillion",
+      "lat": 41.15444,
+      "lon": -96.04224
+    },
+    {
+      "region": "US",
+      "state": "New Hampshire",
+      "city": "Manchester",
+      "lat": 42.99564,
+      "lon": -71.45479
+    },
+    {
+      "region": "US",
+      "state": "New Hampshire",
+      "city": "Nashua",
+      "lat": 42.76537,
+      "lon": -71.46757
+    },
+    {
+      "region": "US",
+      "state": "New Hampshire",
+      "city": "Hampton",
+      "lat": 42.93759,
+      "lon": -70.83894
+    },
+    {
+      "region": "US",
+      "state": "New Hampshire",
+      "city": "Portsmouth",
+      "lat": 43.07704,
+      "lon": -70.75766
+    },
+    {
+      "region": "US",
+      "state": "New Hampshire",
+      "city": "Exeter",
+      "lat": 42.98148,
+      "lon": -70.94783
+    },
+    {
+      "region": "US",
+      "state": "New Jersey",
+      "city": "Jersey City",
+      "lat": 40.72816,
+      "lon": -74.07764
+    },
+    {
+      "region": "US",
+      "state": "New Jersey",
+      "city": "Hoboken",
+      "lat": 40.74399,
+      "lon": -74.03236
+    },
+    {
+      "region": "US",
+      "state": "New Jersey",
+      "city": "Morristown",
+      "lat": 40.79677,
+      "lon": -74.48154
+    },
+    {
+      "region": "US",
+      "state": "New Jersey",
+      "city": "Westfield",
+      "lat": 40.65899,
+      "lon": -74.34737
+    },
+    {
+      "region": "US",
+      "state": "New Jersey",
+      "city": "Princeton",
+      "lat": 40.34872,
+      "lon": -74.65905
+    },
+    {
+      "region": "US",
+      "state": "New Mexico",
+      "city": "Albuquerque",
+      "lat": 35.08449,
+      "lon": -106.65114
+    },
+    {
+      "region": "US",
+      "state": "New Mexico",
+      "city": "Santa Fe",
+      "lat": 35.68698,
+      "lon": -105.9378
+    },
+    {
+      "region": "US",
+      "state": "New Mexico",
+      "city": "Las Cruces",
+      "lat": 32.31232,
+      "lon": -106.77834
+    },
+    {
+      "region": "US",
+      "state": "New Mexico",
+      "city": "Tijeras",
+      "lat": 35.08088,
+      "lon": -106.38808
+    },
+    {
+      "region": "US",
+      "state": "New Mexico",
+      "city": "Los Alamos",
+      "lat": 35.88808,
+      "lon": -106.30697
+    },
+    {
+      "region": "US",
+      "state": "Nevada",
+      "city": "Henderson",
+      "lat": 36.0397,
+      "lon": -114.98194
+    },
+    {
+      "region": "US",
+      "state": "Nevada",
+      "city": "Las Vegas",
+      "lat": 36.17497,
+      "lon": -115.13722
+    },
+    {
+      "region": "US",
+      "state": "Nevada",
+      "city": "Reno",
+      "lat": 39.52963,
+      "lon": -119.8138
+    },
+    {
+      "region": "US",
+      "state": "Nevada",
+      "city": "Carson City",
+      "lat": 39.1638,
+      "lon": -119.7674
+    },
+    {
+      "region": "US",
+      "state": "Nevada",
+      "city": "North Las Vegas",
+      "lat": 36.19886,
+      "lon": -115.1175
+    },
+    {
+      "region": "US",
+      "state": "New York",
+      "city": "New York",
+      "lat": 40.71427,
+      "lon": -74.00597
+    },
+    {
+      "region": "US",
+      "state": "New York",
+      "city": "Brooklyn",
+      "lat": 40.6501,
+      "lon": -73.94958
+    },
+    {
+      "region": "US",
+      "state": "New York",
+      "city": "Bronx",
+      "lat": 40.84985,
+      "lon": -73.86641
+    },
+    {
+      "region": "US",
+      "state": "New York",
+      "city": "Staten Island",
+      "lat": 40.56233,
+      "lon": -74.13986
+    },
+    {
+      "region": "US",
+      "state": "New York",
+      "city": "Astoria",
+      "lat": 40.77205,
+      "lon": -73.93014
+    },
+    {
+      "region": "US",
+      "state": "Ohio",
+      "city": "Cincinnati",
+      "lat": 39.12711,
+      "lon": -84.51439
+    },
+    {
+      "region": "US",
+      "state": "Ohio",
+      "city": "Columbus",
+      "lat": 39.96118,
+      "lon": -82.99879
+    },
+    {
+      "region": "US",
+      "state": "Ohio",
+      "city": "Dayton",
+      "lat": 39.75895,
+      "lon": -84.19161
+    },
+    {
+      "region": "US",
+      "state": "Ohio",
+      "city": "Dublin",
+      "lat": 40.09923,
+      "lon": -83.11408
+    },
+    {
+      "region": "US",
+      "state": "Ohio",
+      "city": "Cleveland",
+      "lat": 41.4995,
+      "lon": -81.69541
+    },
+    {
+      "region": "US",
+      "state": "Oklahoma",
+      "city": "Edmond",
+      "lat": 35.65283,
+      "lon": -97.4781
+    },
+    {
+      "region": "US",
+      "state": "Oklahoma",
+      "city": "Tulsa",
+      "lat": 36.15398,
+      "lon": -95.99277
+    },
+    {
+      "region": "US",
+      "state": "Oklahoma",
+      "city": "Oklahoma City",
+      "lat": 35.46756,
+      "lon": -97.51643
+    },
+    {
+      "region": "US",
+      "state": "Oklahoma",
+      "city": "Norman",
+      "lat": 35.22257,
+      "lon": -97.43948
+    },
+    {
+      "region": "US",
+      "state": "Oklahoma",
+      "city": "Broken Arrow",
+      "lat": 36.0526,
+      "lon": -95.79082
+    },
+    {
+      "region": "US",
+      "state": "Oregon",
+      "city": "Portland",
+      "lat": 45.52345,
+      "lon": -122.67621
+    },
+    {
+      "region": "US",
+      "state": "Oregon",
+      "city": "Lake Oswego",
+      "lat": 45.42067,
+      "lon": -122.67065
+    },
+    {
+      "region": "US",
+      "state": "Oregon",
+      "city": "Beaverton",
+      "lat": 45.48706,
+      "lon": -122.80371
+    },
+    {
+      "region": "US",
+      "state": "Oregon",
+      "city": "Eugene",
+      "lat": 44.05207,
+      "lon": -123.08675
+    },
+    {
+      "region": "US",
+      "state": "Oregon",
+      "city": "Salem",
+      "lat": 44.9429,
+      "lon": -123.0351
+    },
+    {
+      "region": "US",
+      "state": "Pennsylvania",
+      "city": "Philadelphia",
+      "lat": 39.95238,
+      "lon": -75.16362
+    },
+    {
+      "region": "US",
+      "state": "Pennsylvania",
+      "city": "Pittsburgh",
+      "lat": 40.44062,
+      "lon": -79.99589
+    },
+    {
+      "region": "US",
+      "state": "Pennsylvania",
+      "city": "Lancaster",
+      "lat": 40.03788,
+      "lon": -76.30551
+    },
+    {
+      "region": "US",
+      "state": "Pennsylvania",
+      "city": "West Chester",
+      "lat": 39.96097,
+      "lon": -75.60804
+    },
+    {
+      "region": "US",
+      "state": "Pennsylvania",
+      "city": "Doylestown",
+      "lat": 40.31011,
+      "lon": -75.12989
+    },
+    {
+      "region": "US",
+      "state": "Rhode Island",
+      "city": "Providence",
+      "lat": 41.82399,
+      "lon": -71.41283
+    },
+    {
+      "region": "US",
+      "state": "Rhode Island",
+      "city": "Barrington",
+      "lat": 41.74066,
+      "lon": -71.30866
+    },
+    {
+      "region": "US",
+      "state": "Rhode Island",
+      "city": "Cranston",
+      "lat": 41.77982,
+      "lon": -71.43728
+    },
+    {
+      "region": "US",
+      "state": "Rhode Island",
+      "city": "Warwick",
+      "lat": 41.7001,
+      "lon": -71.41617
+    },
+    {
+      "region": "US",
+      "state": "Rhode Island",
+      "city": "East Greenwich",
+      "lat": 41.66038,
+      "lon": -71.45589
+    },
+    {
+      "region": "US",
+      "state": "South Carolina",
+      "city": "Greenville",
+      "lat": 34.85262,
+      "lon": -82.39401
+    },
+    {
+      "region": "US",
+      "state": "South Carolina",
+      "city": "Charleston",
+      "lat": 32.77632,
+      "lon": -79.93275
+    },
+    {
+      "region": "US",
+      "state": "South Carolina",
+      "city": "Mount Pleasant",
+      "lat": 32.79407,
+      "lon": -79.86259
+    },
+    {
+      "region": "US",
+      "state": "South Carolina",
+      "city": "Columbia",
+      "lat": 34.00071,
+      "lon": -81.03481
+    },
+    {
+      "region": "US",
+      "state": "South Carolina",
+      "city": "Myrtle Beach",
+      "lat": 33.68906,
+      "lon": -78.88669
+    },
+    {
+      "region": "US",
+      "state": "South Dakota",
+      "city": "Sioux Falls",
+      "lat": 43.54997,
+      "lon": -96.70033
+    },
+    {
+      "region": "US",
+      "state": "South Dakota",
+      "city": "Rapid City",
+      "lat": 44.08054,
+      "lon": -103.23101
+    },
+    {
+      "region": "US",
+      "state": "South Dakota",
+      "city": "Lennox",
+      "lat": 43.35415,
+      "lon": -96.892
+    },
+    {
+      "region": "US",
+      "state": "South Dakota",
+      "city": "Madison",
+      "lat": 44.00608,
+      "lon": -97.11395
+    },
+    {
+      "region": "US",
+      "state": "South Dakota",
+      "city": "Aberdeen",
+      "lat": 45.4647,
+      "lon": -98.48648
+    },
+    {
+      "region": "US",
+      "state": "Tennessee",
+      "city": "Nashville",
+      "lat": 36.16589,
+      "lon": -86.78444
+    },
+    {
+      "region": "US",
+      "state": "Tennessee",
+      "city": "Knoxville",
+      "lat": 35.96064,
+      "lon": -83.92074
+    },
+    {
+      "region": "US",
+      "state": "Tennessee",
+      "city": "Memphis",
+      "lat": 35.14953,
+      "lon": -90.04898
+    },
+    {
+      "region": "US",
+      "state": "Tennessee",
+      "city": "Franklin",
+      "lat": 35.92506,
+      "lon": -86.86889
+    },
+    {
+      "region": "US",
+      "state": "Tennessee",
+      "city": "Chattanooga",
+      "lat": 35.04563,
+      "lon": -85.30968
+    },
+    {
+      "region": "US",
+      "state": "Texas",
+      "city": "Houston",
+      "lat": 29.76328,
+      "lon": -95.36327
+    },
+    {
+      "region": "US",
+      "state": "Texas",
+      "city": "Austin",
+      "lat": 30.26715,
+      "lon": -97.74306
+    },
+    {
+      "region": "US",
+      "state": "Texas",
+      "city": "Dallas",
+      "lat": 32.78306,
+      "lon": -96.80667
+    },
+    {
+      "region": "US",
+      "state": "Texas",
+      "city": "San Antonio",
+      "lat": 29.42412,
+      "lon": -98.49363
+    },
+    {
+      "region": "US",
+      "state": "Texas",
+      "city": "Fort Worth",
+      "lat": 32.72541,
+      "lon": -97.32085
+    },
+    {
+      "region": "US",
+      "state": "Utah",
+      "city": "Salt Lake City",
+      "lat": 40.76078,
+      "lon": -111.89105
+    },
+    {
+      "region": "US",
+      "state": "Utah",
+      "city": "South Jordan",
+      "lat": 40.56217,
+      "lon": -111.92966
+    },
+    {
+      "region": "US",
+      "state": "Utah",
+      "city": "Park City",
+      "lat": 40.64606,
+      "lon": -111.49797
+    },
+    {
+      "region": "US",
+      "state": "Utah",
+      "city": "Sandy",
+      "lat": 40.59161,
+      "lon": -111.8841
+    },
+    {
+      "region": "US",
+      "state": "Virginia",
+      "city": "Alexandria",
+      "lat": 38.80484,
+      "lon": -77.04692
+    },
+    {
+      "region": "US",
+      "state": "Virginia",
+      "city": "Arlington",
+      "lat": 38.88101,
+      "lon": -77.10428
+    },
+    {
+      "region": "US",
+      "state": "Virginia",
+      "city": "Virginia Beach",
+      "lat": 36.85293,
+      "lon": -75.97799
+    },
+    {
+      "region": "US",
+      "state": "Virginia",
+      "city": "Richmond",
+      "lat": 37.55376,
+      "lon": -77.46026
+    },
+    {
+      "region": "US",
+      "state": "Virginia",
+      "city": "Fairfax",
+      "lat": 38.84622,
+      "lon": -77.30637
+    },
+    {
+      "region": "US",
+      "state": "Vermont",
+      "city": "Burlington",
+      "lat": 44.47588,
+      "lon": -73.21207
+    },
+    {
+      "region": "US",
+      "state": "Vermont",
+      "city": "Essex Junction",
+      "lat": 44.49061,
+      "lon": -73.11096
+    },
+    {
+      "region": "US",
+      "state": "Vermont",
+      "city": "Hyde Park",
+      "lat": 44.59394,
+      "lon": -72.61651
+    },
+    {
+      "region": "US",
+      "state": "Vermont",
+      "city": "South Burlington",
+      "lat": 44.46699,
+      "lon": -73.17096
+    },
+    {
+      "region": "US",
+      "state": "Vermont",
+      "city": "Stowe",
+      "lat": 44.46533,
+      "lon": -72.68456
+    },
+    {
+      "region": "US",
+      "state": "Washington",
+      "city": "Seattle",
+      "lat": 47.60621,
+      "lon": -122.33207
+    },
+    {
+      "region": "US",
+      "state": "Washington",
+      "city": "Bellevue",
+      "lat": 47.61038,
+      "lon": -122.20068
+    },
+    {
+      "region": "US",
+      "state": "Washington",
+      "city": "Vancouver",
+      "lat": 45.63873,
+      "lon": -122.66149
+    },
+    {
+      "region": "US",
+      "state": "Washington",
+      "city": "Tacoma",
+      "lat": 47.25288,
+      "lon": -122.44429
+    },
+    {
+      "region": "US",
+      "state": "Wisconsin",
+      "city": "Milwaukee",
+      "lat": 43.0389,
+      "lon": -87.90647
+    },
+    {
+      "region": "US",
+      "state": "Wisconsin",
+      "city": "Madison",
+      "lat": 43.07305,
+      "lon": -89.40123
+    },
+    {
+      "region": "US",
+      "state": "Wisconsin",
+      "city": "Waukesha",
+      "lat": 43.01168,
+      "lon": -88.23148
+    },
+    {
+      "region": "US",
+      "state": "Wisconsin",
+      "city": "Whitefish Bay",
+      "lat": 43.11334,
+      "lon": -87.90009
+    },
+    {
+      "region": "US",
+      "state": "Wisconsin",
+      "city": "Appleton",
+      "lat": 44.26193,
+      "lon": -88.41538
+    },
+    {
+      "region": "US",
+      "state": "West Virginia",
+      "city": "Morgantown",
+      "lat": 39.62953,
+      "lon": -79.9559
+    },
+    {
+      "region": "US",
+      "state": "West Virginia",
+      "city": "Huntington",
+      "lat": 38.41925,
+      "lon": -82.44515
+    },
+    {
+      "region": "US",
+      "state": "West Virginia",
+      "city": "Charleston",
+      "lat": 38.34982,
+      "lon": -81.63262
+    },
+    {
+      "region": "US",
+      "state": "West Virginia",
+      "city": "Wheeling",
+      "lat": 40.06396,
+      "lon": -80.72091
+    },
+    {
+      "region": "US",
+      "state": "West Virginia",
+      "city": "Hurricane",
+      "lat": 38.43259,
+      "lon": -82.02014
+    },
+    {
+      "region": "US",
+      "state": "Wyoming",
+      "city": "Cheyenne",
+      "lat": 41.13998,
+      "lon": -104.82025
+    },
+    {
+      "region": "US",
+      "state": "Wyoming",
+      "city": "Sheridan",
+      "lat": 44.79719,
+      "lon": -106.95618
+    },
+    {
+      "region": "US",
+      "state": "Wyoming",
+      "city": "Rock Springs",
+      "lat": 41.58746,
+      "lon": -109.2029
+    },
+    {
+      "region": "US",
+      "state": "Wyoming",
+      "city": "Cody",
+      "lat": 44.52634,
+      "lon": -109.05653
+    },
+    {
+      "region": "US",
+      "state": "Wyoming",
+      "city": "Casper",
+      "lat": 42.86663,
+      "lon": -106.31308
+    },
+    {
+      "region": "US",
+      "state": "District of Columbia",
+      "city": "Washington",
+      "lat": 38.89511,
+      "lon": -77.03637
+    },
+    {
+      "region": "UK",
+      "state": "England",
+      "city": "London",
+      "lat": 51.50853,
+      "lon": -0.12574
+    },
+    {
+      "region": "UK",
+      "state": "England",
+      "city": "Bristol",
+      "lat": 51.45523,
+      "lon": -2.59665
+    },
+    {
+      "region": "UK",
+      "state": "England",
+      "city": "Sheffield",
+      "lat": 53.38297,
+      "lon": -1.4659
+    },
+    {
+      "region": "UK",
+      "state": "England",
+      "city": "Swindon",
+      "lat": 51.55797,
+      "lon": -1.78116
+    },
+    {
+      "region": "UK",
+      "state": "England",
+      "city": "Birmingham",
+      "lat": 52.48142,
+      "lon": -1.89983
+    },
+    {
+      "region": "UK",
+      "state": "England",
+      "city": "Brighton",
+      "lat": 50.82838,
+      "lon": -0.13947
+    },
+    {
+      "region": "UK",
+      "state": "England",
+      "city": "Hove",
+      "lat": 50.83088,
+      "lon": -0.1672
+    },
+    {
+      "region": "UK",
+      "state": "England",
+      "city": "Manchester",
+      "lat": 53.48095,
+      "lon": -2.23743
+    },
+    {
+      "region": "UK",
+      "state": "Scotland",
+      "city": "Glasgow",
+      "lat": 55.86515,
+      "lon": -4.25763
+    },
+    {
+      "region": "UK",
+      "state": "Scotland",
+      "city": "Edinburgh",
+      "lat": 55.95206,
+      "lon": -3.19648
+    },
+    {
+      "region": "UK",
+      "state": "Scotland",
+      "city": "Aberdeen",
+      "lat": 57.14369,
+      "lon": -2.09814
+    },
+    {
+      "region": "UK",
+      "state": "Scotland",
+      "city": "Dunfermline",
+      "lat": 56.07156,
+      "lon": -3.45887
+    },
+    {
+      "region": "UK",
+      "state": "Scotland",
+      "city": "Aboyne",
+      "lat": 57.07546,
+      "lon": -2.78023
+    },
+    {
+      "region": "UK",
+      "state": "Scotland",
+      "city": "Balerno",
+      "lat": 55.88437,
+      "lon": -3.33975
+    },
+    {
+      "region": "UK",
+      "state": "Scotland",
+      "city": "Banchory",
+      "lat": 57.05168,
+      "lon": -2.48824
+    },
+    {
+      "region": "UK",
+      "state": "Scotland",
+      "city": "Barrhead",
+      "lat": 55.79916,
+      "lon": -4.39285
+    },
+    {
+      "region": "UK",
+      "state": "Wales",
+      "city": "Cardiff",
+      "lat": 51.48,
+      "lon": -3.18
+    },
+    {
+      "region": "UK",
+      "state": "Wales",
+      "city": "Aberdare",
+      "lat": 51.71438,
+      "lon": -3.44918
+    },
+    {
+      "region": "UK",
+      "state": "Wales",
+      "city": "Clarbeston Road",
+      "lat": 51.85139,
+      "lon": -4.88056
+    },
+    {
+      "region": "UK",
+      "state": "Wales",
+      "city": "Cwmbran",
+      "lat": 51.65446,
+      "lon": -3.02281
+    },
+    {
+      "region": "UK",
+      "state": "Wales",
+      "city": "Llanidloes",
+      "lat": 52.44977,
+      "lon": -3.53997
+    },
+    {
+      "region": "UK",
+      "state": "Wales",
+      "city": "Merthyr Tydfil",
+      "lat": 51.74794,
+      "lon": -3.37779
+    },
+    {
+      "region": "UK",
+      "state": "Wales",
+      "city": "Port Talbot",
+      "lat": 51.59241,
+      "lon": -3.78019
+    },
+    {
+      "region": "UK",
+      "state": "Northern Ireland",
+      "city": "Newry",
+      "lat": 54.17841,
+      "lon": -6.33739
+    },
+    {
+      "region": "UK",
+      "state": "Northern Ireland",
+      "city": "Belfast",
+      "lat": 54.59682,
+      "lon": -5.92541
+    },
+    {
+      "region": "UK",
+      "state": "Northern Ireland",
+      "city": "Craigavon",
+      "lat": 54.44709,
+      "lon": -6.387
+    },
+    {
+      "region": "UK",
+      "state": "Northern Ireland",
+      "city": "Dromara",
+      "lat": 54.36667,
+      "lon": -6.01667
+    },
+    {
+      "region": "UK",
+      "state": "Northern Ireland",
+      "city": "Derry",
+      "lat": 54.9981,
+      "lon": -7.30934
+    },
+    {
+      "region": "UK",
+      "state": "Northern Ireland",
+      "city": "Lisburn",
+      "lat": 54.52337,
+      "lon": -6.03527
+    },
+    {
+      "region": "UK",
+      "state": "Northern Ireland",
+      "city": "Bangor",
+      "lat": 54.66079,
+      "lon": -5.66802
+    },
+    {
+      "region": "CA",
+      "state": "Alberta",
+      "city": "Calgary",
+      "lat": 51.05011,
+      "lon": -114.08529
+    },
+    {
+      "region": "CA",
+      "state": "Alberta",
+      "city": "Edmonton",
+      "lat": 53.55014,
+      "lon": -113.46871
+    },
+    {
+      "region": "CA",
+      "state": "Alberta",
+      "city": "St. Albert",
+      "lat": 53.63344,
+      "lon": -113.63533
+    },
+    {
+      "region": "CA",
+      "state": "Alberta",
+      "city": "Wainwright",
+      "lat": 52.83482,
+      "lon": -110.85342
+    },
+    {
+      "region": "CA",
+      "state": "Alberta",
+      "city": "West Baptiste",
+      "lat": 54.75016,
+      "lon": -113.5688
+    },
+    {
+      "region": "CA",
+      "state": "British Columbia",
+      "city": "Vancouver",
+      "lat": 49.24966,
+      "lon": -123.11934
+    },
+    {
+      "region": "CA",
+      "state": "British Columbia",
+      "city": "Victoria",
+      "lat": 48.4359,
+      "lon": -123.35155
+    },
+    {
+      "region": "CA",
+      "state": "British Columbia",
+      "city": "Surrey",
+      "lat": 49.10635,
+      "lon": -122.82509
+    },
+    {
+      "region": "CA",
+      "state": "British Columbia",
+      "city": "Burnaby",
+      "lat": 49.26636,
+      "lon": -122.95263
+    },
+    {
+      "region": "CA",
+      "state": "British Columbia",
+      "city": "North Vancouver",
+      "lat": 49.31636,
+      "lon": -123.06934
+    },
+    {
+      "region": "CA",
+      "state": "Manitoba",
+      "city": "Headingley",
+      "lat": 49.8753,
+      "lon": -97.40896
+    },
+    {
+      "region": "CA",
+      "state": "Manitoba",
+      "city": "Winnipeg",
+      "lat": 49.8844,
+      "lon": -97.14704
+    },
+    {
+      "region": "CA",
+      "state": "Manitoba",
+      "city": "Brandon",
+      "lat": 49.84692,
+      "lon": -99.95306
+    },
+    {
+      "region": "CA",
+      "state": "Manitoba",
+      "city": "Steinbach",
+      "lat": 49.52579,
+      "lon": -96.68451
+    },
+    {
+      "region": "CA",
+      "state": "Manitoba",
+      "city": "Thompson",
+      "lat": 55.7435,
+      "lon": -97.85579
+    },
+    {
+      "region": "CA",
+      "state": "New Brunswick",
+      "city": "Moncton",
+      "lat": 46.09454,
+      "lon": -64.7965
+    },
+    {
+      "region": "CA",
+      "state": "New Brunswick",
+      "city": "Saint John",
+      "lat": 45.27076,
+      "lon": -66.05616
+    },
+    {
+      "region": "CA",
+      "state": "New Brunswick",
+      "city": "Fredericton",
+      "lat": 45.94541,
+      "lon": -66.66558
+    },
+    {
+      "region": "CA",
+      "state": "New Brunswick",
+      "city": "Dieppe",
+      "lat": 46.07844,
+      "lon": -64.68735
+    },
+    {
+      "region": "CA",
+      "state": "New Brunswick",
+      "city": "Miramichi",
+      "lat": 47.02895,
+      "lon": -65.50186
+    },
+    {
+      "region": "CA",
+      "state": "Newfoundland and Labrador",
+      "city": "St. John's",
+      "lat": 47.56494,
+      "lon": -52.70931
+    },
+    {
+      "region": "CA",
+      "state": "Newfoundland and Labrador",
+      "city": "Mount Pearl",
+      "lat": 47.51659,
+      "lon": -52.78135
+    },
+    {
+      "region": "CA",
+      "state": "Newfoundland and Labrador",
+      "city": "Corner Brook",
+      "lat": 48.95001,
+      "lon": -57.95202
+    },
+    {
+      "region": "CA",
+      "state": "Nova Scotia",
+      "city": "Halifax",
+      "lat": 44.64269,
+      "lon": -63.57688
+    },
+    {
+      "region": "CA",
+      "state": "Nova Scotia",
+      "city": "Dartmouth",
+      "lat": 44.67134,
+      "lon": -63.57719
+    },
+    {
+      "region": "CA",
+      "state": "Nova Scotia",
+      "city": "Sydney",
+      "lat": 46.1351,
+      "lon": -60.1831
+    },
+    {
+      "region": "CA",
+      "state": "Nova Scotia",
+      "city": "Truro",
+      "lat": 45.36685,
+      "lon": -63.26538
+    },
+    {
+      "region": "CA",
+      "state": "Nova Scotia",
+      "city": "New Glasgow",
+      "lat": 45.58344,
+      "lon": -62.64863
+    },
+    {
+      "region": "CA",
+      "state": "Northwest Territories",
+      "city": "Yellowknife",
+      "lat": 62.45411,
+      "lon": -114.37248
+    },
+    {
+      "region": "CA",
+      "state": "Northwest Territories",
+      "city": "Hay River",
+      "lat": 60.81555,
+      "lon": -115.79993
+    },
+    {
+      "region": "CA",
+      "state": "Northwest Territories",
+      "city": "Inuvik",
+      "lat": 68.36166,
+      "lon": -133.72816
+    },
+    {
+      "region": "CA",
+      "state": "Northwest Territories",
+      "city": "Fort Smith",
+      "lat": 60.00439,
+      "lon": -111.88871
+    },
+    {
+      "region": "CA",
+      "state": "Northwest Territories",
+      "city": "Behchok\u01eb\u0300",
+      "lat": 62.8025,
+      "lon": -116.04639
+    },
+    {
+      "region": "CA",
+      "state": "Nunavut",
+      "city": "Iqaluit",
+      "lat": 63.74697,
+      "lon": -68.51727
+    },
+    {
+      "region": "CA",
+      "state": "Nunavut",
+      "city": "Rankin Inlet",
+      "lat": 62.80906,
+      "lon": -92.08534
+    },
+    {
+      "region": "CA",
+      "state": "Nunavut",
+      "city": "Arviat",
+      "lat": 61.10883,
+      "lon": -94.05848
+    },
+    {
+      "region": "CA",
+      "state": "Nunavut",
+      "city": "Baker Lake",
+      "lat": 64.32009,
+      "lon": -96.02123
+    },
+    {
+      "region": "CA",
+      "state": "Nunavut",
+      "city": "Cambridge Bay",
+      "lat": 69.11489,
+      "lon": -105.05484
+    },
+    {
+      "region": "CA",
+      "state": "Ontario",
+      "city": "Toronto",
+      "lat": 43.70643,
+      "lon": -79.39864
+    },
+    {
+      "region": "CA",
+      "state": "Ontario",
+      "city": "Ottawa",
+      "lat": 45.41117,
+      "lon": -75.69812
+    },
+    {
+      "region": "CA",
+      "state": "Ontario",
+      "city": "Kingston",
+      "lat": 44.22976,
+      "lon": -76.48098
+    },
+    {
+      "region": "CA",
+      "state": "Ontario",
+      "city": "Guelph",
+      "lat": 43.54594,
+      "lon": -80.25599
+    },
+    {
+      "region": "CA",
+      "state": "Ontario",
+      "city": "Markham",
+      "lat": 43.86682,
+      "lon": -79.2663
+    },
+    {
+      "region": "CA",
+      "state": "Prince Edward Island",
+      "city": "Charlottetown",
+      "lat": 46.23459,
+      "lon": -63.1256
+    },
+    {
+      "region": "CA",
+      "state": "Prince Edward Island",
+      "city": "Summerside",
+      "lat": 46.3912,
+      "lon": -63.78869
+    },
+    {
+      "region": "CA",
+      "state": "Prince Edward Island",
+      "city": "Cornwall",
+      "lat": 46.22652,
+      "lon": -63.21809
+    },
+    {
+      "region": "CA",
+      "state": "Prince Edward Island",
+      "city": "Montague",
+      "lat": 46.16681,
+      "lon": -62.64866
+    },
+    {
+      "region": "CA",
+      "state": "Quebec",
+      "city": "Montreal",
+      "lat": 45.50884,
+      "lon": -73.58781
+    },
+    {
+      "region": "CA",
+      "state": "Quebec",
+      "city": "Dorval",
+      "lat": 45.4473,
+      "lon": -73.75335
+    },
+    {
+      "region": "CA",
+      "state": "Quebec",
+      "city": "Blainville",
+      "lat": 45.66678,
+      "lon": -73.88249
+    },
+    {
+      "region": "CA",
+      "state": "Quebec",
+      "city": "Brossard",
+      "lat": 45.45008,
+      "lon": -73.46583
+    },
+    {
+      "region": "CA",
+      "state": "Quebec",
+      "city": "Cote-Saint-Luc",
+      "lat": 45.46536,
+      "lon": -73.66585
+    },
+    {
+      "region": "CA",
+      "state": "Saskatchewan",
+      "city": "Saskatoon",
+      "lat": 52.13238,
+      "lon": -106.66892
+    },
+    {
+      "region": "CA",
+      "state": "Saskatchewan",
+      "city": "Yellow Grass",
+      "lat": 49.80006,
+      "lon": -104.16781
+    },
+    {
+      "region": "CA",
+      "state": "Saskatchewan",
+      "city": "Regina",
+      "lat": 50.45008,
+      "lon": -104.6178
+    },
+    {
+      "region": "CA",
+      "state": "Saskatchewan",
+      "city": "Prince Albert",
+      "lat": 53.20008,
+      "lon": -105.76772
+    },
+    {
+      "region": "CA",
+      "state": "Saskatchewan",
+      "city": "Moose Jaw",
+      "lat": 50.40005,
+      "lon": -105.53445
+    },
+    {
+      "region": "CA",
+      "state": "Yukon",
+      "city": "Whitehorse",
+      "lat": 60.71611,
+      "lon": -135.05376
+    },
+    {
+      "region": "CA",
+      "state": "Yukon",
+      "city": "Dawson City",
+      "lat": 64.06013,
+      "lon": -139.43327
+    },
+    {
+      "region": "CA",
+      "state": "Yukon",
+      "city": "Watson Lake",
+      "lat": 60.06349,
+      "lon": -128.70892
+    },
+    {
+      "region": "CA",
+      "state": "Yukon",
+      "city": "Haines Junction",
+      "lat": 60.75216,
+      "lon": -137.51082
+    },
+    {
+      "region": "CA",
+      "state": "Yukon",
+      "city": "Mayo",
+      "lat": 63.59274,
+      "lon": -135.89984
+    },
+    {
+      "region": "US",
+      "state": "Idaho",
+      "city": "Coeur d'Alene",
+      "lat": 47.6777,
+      "lon": -116.7805
+    },
+    {
+      "region": "US",
+      "state": "Utah",
+      "city": "Eagle Mountain",
+      "lat": 40.3144,
+      "lon": -111.9849
+    },
+    {
+      "region": "US",
+      "state": "Washington",
+      "city": "Spokane",
+      "lat": 47.6569,
+      "lon": -117.425
+    },
+    {
+      "region": "UK",
+      "state": "Wales",
+      "city": "Swansea",
+      "lat": 51.6214,
+      "lon": -3.9436
+    },
+    {
+      "region": "CA",
+      "state": "Newfoundland and Labrador",
+      "city": "Grand Falls-Windsor",
+      "lat": 48.9332,
+      "lon": -55.6649
+    },
+    {
+      "region": "CA",
+      "state": "Newfoundland and Labrador",
+      "city": "Paradise",
+      "lat": 47.5333,
+      "lon": -52.9667
+    },
+    {
+      "region": "CA",
+      "state": "Prince Edward Island",
+      "city": "Stratford",
+      "lat": 46.2153,
+      "lon": -63.0866
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+name: Weatherman Weather Pulse
+
+on:
+  push:
+    branches: [ main, master ]
+  schedule:
+    # 6:00 AM Eastern Time corresponds to 10:00 AM UTC (EDT) or 11:00 AM UTC (EST)
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+    inputs:
+      max_attempts:
+        description: Max attempts (first run + retries until success)
+        type: number
+        default: 5
+      retry_wait_minutes:
+        description: Minutes to wait between failed attempts
+        type: number
+        default: 60
+
+permissions:
+  contents: write
+
+env:
+  CI_RETRY_MAX_ATTEMPTS: ${{ vars.CI_RETRY_MAX_ATTEMPTS || '5' }}
+  CI_RETRY_WAIT_SECONDS: ${{ vars.CI_RETRY_WAIT_SECONDS || '3600' }}
+
+jobs:
+  run-pulse:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: 'requirements.txt'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Verify Python dependencies
+        run: |
+          python -c "import aiohttp, requests; print('aiohttp', aiohttp.__version__, '| requests', requests.__version__)"
+
+      - name: Resolve retry settings
+        id: retry
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "max=${{ github.event.inputs.max_attempts }}" >> "$GITHUB_OUTPUT"
+            echo "wait_seconds=$(( ${{ github.event.inputs.retry_wait_minutes }} * 60 ))" >> "$GITHUB_OUTPUT"
+          else
+            echo "max=${CI_RETRY_MAX_ATTEMPTS}" >> "$GITHUB_OUTPUT"
+            echo "wait_seconds=${CI_RETRY_WAIT_SECONDS}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run Weather Pulse script (retry on failure)
+        run: |
+          chmod +x scripts/ci_retry.sh
+          ./scripts/ci_retry.sh \
+            --max "${{ steps.retry.outputs.max }}" \
+            --wait-seconds "${{ steps.retry.outputs.wait_seconds }}" \
+            -- python weatherman_weather_pulse.py
+          ls -la marketing_weather_report_us.csv marketing_weather_report_uk.csv marketing_weather_report_can.csv
+
+      - name: Archive weather history snapshot
+        if: success()
+        run: python history_archive.py --archive-weather
+
+      - name: Commit and Push Report
+        if: success()
+        run: |
+          set -euo pipefail
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin main
+          # Re-anchor to latest main; keep freshly generated reports in the working tree.
+          git reset --mixed origin/main
+
+          git add marketing_weather_report_us.csv marketing_weather_report_can.csv marketing_weather_report_uk.csv
+          # Do NOT commit data/history/weather/ — daily archives bloat clones for Streamlit Cloud.
+          # Local/CI still write archives via history_archive.py; they stay gitignored.
+
+          if git diff --staged --quiet; then
+            echo "No report changes to commit."
+            exit 0
+          fi
+
+          echo "Committing:"
+          git diff --cached --name-only
+
+          git commit -m "Auto-update: $(date -u +%Y-%m-%d) marketing weather report"
+
+          for attempt in 1 2 3 4 5; do
+            if git push origin main; then
+              echo "Push succeeded on attempt ${attempt}."
+              exit 0
+            fi
+            echo "Push rejected (attempt ${attempt}); rebasing onto origin/main..."
+            git fetch origin main
+            if ! git rebase origin/main; then
+              for f in $(git diff --name-only --diff-filter=U); do
+                case "$f" in
+                  marketing_weather_report_*)
+                    git checkout --theirs -- "$f"
+                    git add "$f"
+                    ;;
+                  data/history/weather/*)
+                    git rm -f --ignore-unmatch -- "$f" 2>/dev/null || true
+                    ;;
+                  *)
+                    echo "Unexpected conflict in $f"
+                    git rebase --abort
+                    exit 1
+                    ;;
+                esac
+              done
+              GIT_EDITOR=true git rebase --continue
+            fi
+          done
+          echo "Push failed after retries."
+          exit 1

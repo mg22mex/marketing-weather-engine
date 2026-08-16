@@ -1,0 +1,47 @@
+# Sales rollups (keep locally; do not commit)
+orders_by_city_all_platforms_all_cities_2025_01_through_2026_04.csv
+data/orders_by_city.csv
+data/historical_sales_ledger*.csv
+Weatherman IP Tracker US - 5_25_26 - Shopify Depletion.csv
+
+# Full SKU ledgers (Sheets + local dry-run only — GH hard limit 100MB)
+data/weather_pulse_sales_bridge_master_preview.csv
+data/weather_pulse_sales_bridge_us_preview.csv
+data/weather_pulse_sales_bridge_preview.csv
+data/history/sales_ledger.csv
+raw_data/sales_data_bridge.csv
+
+# Bulk historical sales / weather archives (bloat git clone for Streamlit Cloud)
+data/cleaned_omnichannel_sales.csv
+data/history/weather/
+data/history/observed_precip_cache.csv
+
+# Secrets & local environment
+.env
+.env.local
+.env.*.local
+google_creds.json
+credentials.json
+test_creds.json
+*-*-*.json
+
+# Cursor (may contain MCP tokens)
+.cursor/
+
+# Virtual environments
+.venv/
+venv/
+_venv/
+
+# Cursor / local agent skill caches
+.agents/
+.claude/
+.agents/skills/developing-with-streamlit
+.claude/skills/developing-with-streamlit
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/

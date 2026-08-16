@@ -1,0 +1,442 @@
+Shipping_Country,Shipping_State,Shipping_City,City_Join_Key,State_Join_Key,order_weight,revenue_weight,level
+US,New York,New York,new york,new york,0.0862906788396407,0.08860945458684456,country
+US,New York,Brooklyn,brooklyn,new york,0.044470622883227805,0.04424670761567553,country
+US,Illinois,Chicago,chicago,illinois,0.033328424876061455,0.03312639856041605,country
+US,Texas,Houston,houston,texas,0.027978206449712856,0.03062227046129289,country
+US,Florida,Miami,miami,florida,0.024836793795710008,0.030126985288438476,country
+US,California,San Francisco,san francisco,california,0.0293525744858391,0.028505870667799475,country
+US,California,Los Angeles,los angeles,california,0.02954891277671428,0.027745297706882603,country
+US,District of Columbia,Washington,washington,district of columbia,0.02189171943258234,0.020377679402594343,country
+US,Washington,Seattle,seattle,washington,0.018897560496735875,0.01761309284259564,country
+US,Texas,Austin,austin,texas,0.017228685024296864,0.01756304887186971,country
+US,Texas,Dallas,dallas,texas,0.01585431698817062,0.017026950193159536,country
+US,California,San Diego,san diego,california,0.016050655279045797,0.014253577618155234,country
+US,Georgia,Atlanta,atlanta,georgia,0.012761988906886566,0.013795989381984333,country
+US,Pennsylvania,Philadelphia,philadelphia,pennsylvania,0.013007411770480539,0.012473078939987073,country
+US,North Carolina,Charlotte,charlotte,north carolina,0.011780297452510675,0.01202787025858039,country
+US,Oregon,Portland,portland,oregon,0.01236931232513621,0.011526742196043042,country
+US,Massachusetts,Boston,boston,massachusetts,0.011534874588916704,0.011496058895027176,country
+US,California,San Jose,san jose,california,0.01281107347960536,0.011092818205100063,country
+US,Florida,Orlando,orlando,florida,0.009473322534727335,0.011057348937859677,country
+US,Massachusetts,Reading,reading,massachusetts,0.025180385804741568,0.010995060915377016,country
+US,Virginia,Alexandria,alexandria,virginia,0.009816914543758897,0.009684058477677912,country
+US,Hawaii,Honolulu,honolulu,hawaii,0.007804447062288323,0.009433410434544594,country
+US,Florida,Naples,naples,florida,0.007215432189662789,0.008822107586677886,country
+US,Texas,San Antonio,san antonio,texas,0.008393461934913856,0.008573237343002828,country
+US,Ohio,Cincinnati,cincinnati,ohio,0.007019093898787611,0.00831402550979619,country
+US,Tennessee,Nashville,nashville,tennessee,0.0080007853531635,0.007991891500031843,country
+US,Florida,Tampa,tampa,florida,0.006970009326068816,0.007952828693032842,country
+US,Pennsylvania,Pittsburgh,pittsburgh,pennsylvania,0.008393461934913856,0.007813607483018086,country
+US,North Carolina,Raleigh,raleigh,north carolina,0.007411770480537967,0.007745183884356314,country
+US,California,Oakland,oakland,california,0.008442546507632652,0.007585447519007684,country
+US,Texas,Fort Worth,fort worth,texas,0.005939233298974132,0.007152298605267544,country
+US,Ohio,Columbus,columbus,ohio,0.006773671035193639,0.007013315880545969,country
+US,Virginia,Arlington,arlington,virginia,0.007853531635007117,0.007001771024307885,country
+US,New Jersey,Jersey City,jersey city,new jersey,0.007313601335100378,0.006782922826972145,country
+US,Nevada,Las Vegas,las vegas,nevada,0.00667550188975605,0.00676761098712586,country
+US,Florida,Boca Raton,boca raton,florida,0.0062828253080056936,0.006635397992658447,country
+US,Colorado,Denver,denver,colorado,0.00667550188975605,0.006461932462591007,country
+US,Georgia,Marietta,marietta,georgia,0.00569381043538016,0.006221447145019384,country
+US,Minnesota,Minneapolis,minneapolis,minnesota,0.007215432189662789,0.006010376820313527,country
+US,Kentucky,Louisville,louisville,kentucky,0.005350218426348598,0.005949942478973321,country
+US,Missouri,Saint Louis,saint louis,missouri,0.005742895008098954,0.005791864670436361,country
+US,New York,Staten Island,staten island,new york,0.005497472144504982,0.005695576233314498,country
+US,Indiana,Indianapolis,indianapolis,indiana,0.005055710990035832,0.005434787145100685,country
+US,Virginia,Virginia Beach,virginia beach,virginia,0.005301133853629804,0.005397106468778075,country
+US,Virginia,Richmond,richmond,virginia,0.004957541844598243,0.0053475990899618025,country
+UK,England,London,london,england,0.7012987012987013,0.5857695343813679,country
+US,New York,Bronx,bronx,new york,0.005791979580817749,0.005161266194303182,country
+US,Oklahoma,Tulsa,tulsa,oklahoma,0.004417611544691504,0.005127363341829372,country
+US,Arizona,Phoenix,phoenix,arizona,0.004859372699160654,0.005116327976899447,country
+CA,Ontario,Toronto,toronto,ontario,0.18641390205371247,0.1761630537807132,country
+US,Connecticut,Greenwich,greenwich,connecticut,0.0025033132086585185,0.004831121246736071,country
+US,Louisiana,Baton Rouge,baton rouge,louisiana,0.003779512099347175,0.004827235020481279,country
+US,Tennessee,Knoxville,knoxville,tennessee,0.004466696117410298,0.004776773700492283,country
+US,Arizona,Tucson,tucson,arizona,0.004663034408285476,0.00461846282678244,country
+US,Maryland,Bethesda,bethesda,maryland,0.003877681244784764,0.004456195265253912,country
+US,Oklahoma,Edmond,edmond,oklahoma,0.00613557158984931,0.004399078037537043,country
+US,Alabama,Birmingham,birmingham,alabama,0.00382859667206597,0.004300578191332957,country
+US,Maryland,Baltimore,baltimore,maryland,0.004319442399253914,0.0042651143442128696,country
+US,Arizona,Scottsdale,scottsdale,arizona,0.004024934962941148,0.004194788283325948,country
+US,Kentucky,Lexington,lexington,kentucky,0.004172188681097531,0.004141551861743571,country
+US,Massachusetts,Cambridge,cambridge,massachusetts,0.004515780690129092,0.004130386413926457,country
+US,South Carolina,Greenville,greenville,south carolina,0.003681342953909586,0.004074553754720586,country
+CA,British Columbia,Vancouver,vancouver,british columbia,0.13902053712480253,0.13960792346722867,country
+US,Louisiana,New Orleans,new orleans,louisiana,0.003583173808471997,0.003727790718314993,country
+US,Tennessee,Memphis,memphis,tennessee,0.003485004663034408,0.00370614275783851,country
+US,Georgia,Savannah,savannah,georgia,0.0029450743631276688,0.003700793099102835,country
+US,South Carolina,Charleston,charleston,south carolina,0.003435920090315614,0.003688597828428802,country
+US,North Carolina,Wilmington,wilmington,north carolina,0.0029450743631276688,0.0036332367196889935,country
+US,New Mexico,Albuquerque,albuquerque,new mexico,0.003435920090315614,0.0035216852238035426,country
+US,Illinois,Naperville,naperville,illinois,0.002650566926814902,0.0035004925534322232,country
+US,Tennessee,Franklin,franklin,tennessee,0.00284690521769008,0.0034851969739468367,country
+US,New Jersey,Hoboken,hoboken,new jersey,0.00382859667206597,0.003465001605710639,country
+US,Michigan,Grand Rapids,grand rapids,michigan,0.002257890345064546,0.0034575055793363337,country
+US,Missouri,Kansas City,kansas city,missouri,0.0030923280812840525,0.003380312226029857,country
+US,Colorado,Colorado Springs,colorado springs,colorado,0.003485004663034408,0.0033583011174933026,country
+US,Alabama,Huntsville,huntsville,alabama,0.0029450743631276688,0.0033281056273043977,country
+US,Louisiana,Shreveport,shreveport,louisiana,0.001914298336032985,0.003317135303818068,country
+US,Virginia,Fairfax,fairfax,virginia,0.003337750944878025,0.0033095688158798686,country
+US,Delaware,Wilmington,wilmington,delaware,0.0032395817994404358,0.0032084131107289926,country
+US,New York,Astoria,astoria,new york,0.0032395817994404358,0.0031580547730256873,country
+US,Michigan,Ann Arbor,ann arbor,michigan,0.0033868355175968195,0.003149306698862181,country
+US,Indiana,Carmel,carmel,indiana,0.0026996514995336965,0.0031384718783833408,country
+US,Washington,Vancouver,vancouver,washington,0.0030923280812840525,0.003107002659924037,country
+US,Washington,Bellevue,bellevue,washington,0.0032395817994404358,0.003106102919954308,country
+US,Georgia,Alpharetta,alpharetta,georgia,0.0028959897904088745,0.0030259339206033676,country
+US,Minnesota,Saint Paul,saint paul,minnesota,0.002748736072252491,0.0029409843751482066,country
+US,Wisconsin,Milwaukee,milwaukee,wisconsin,0.0031414126540028468,0.0029296725840830037,country
+US,South Carolina,Myrtle Beach,myrtle beach,south carolina,0.002208805772345752,0.002849525265213262,country
+US,Arkansas,Little Rock,little rock,arkansas,0.002454228635939724,0.0028340183010361914,country
+US,Louisiana,Lafayette,lafayette,louisiana,0.002356059490502135,0.002778684292897881,country
+US,North Carolina,Chapel Hill,chapel hill,north carolina,0.0028959897904088745,0.0027092308713791906,country
+US,Nebraska,Omaha,omaha,nebraska,0.00284690521769008,0.0026886018935190267,country
+US,South Carolina,Columbia,columbia,south carolina,0.002454228635939724,0.0026680704778242552,country
+US,Oklahoma,Oklahoma City,oklahoma city,oklahoma,0.0025033132086585185,0.0026228612544055415,country
+US,Kansas,Wichita,wichita,kansas,0.0026014823540961075,0.0026051103604244497,country
+US,Washington,Tacoma,tacoma,washington,0.00284690521769008,0.002585164317722032,country
+US,North Carolina,Durham,durham,north carolina,0.0029450743631276688,0.0025805463752267984,country
+US,Nevada,Henderson,henderson,nevada,0.008344377362195062,0.0025222258808034245,country
+US,Kansas,Overland Park,overland park,kansas,0.002061552054189368,0.0025099980894075944,country
+US,Maryland,Silver Spring,silver spring,maryland,0.0026996514995336965,0.002473157531731417,country
+US,Ohio,Dayton,dayton,ohio,0.002208805772345752,0.00243315704392059,country
+US,South Carolina,Mount Pleasant,mount pleasant,south carolina,0.0025033132086585185,0.002407124206121755,country
+US,Wisconsin,Madison,madison,wisconsin,0.0026014823540961075,0.002390684981253159,country
+US,Indiana,Fort Wayne,fort wayne,indiana,0.002061552054189368,0.0023627063202667784,country
+US,New Jersey,Morristown,morristown,new jersey,0.002110636626908163,0.0023475083029467843,country
+US,Georgia,Decatur,decatur,georgia,0.002257890345064546,0.0023092422536318195,country
+US,Nevada,Reno,reno,nevada,0.002454228635939724,0.0022860983399526553,country
+US,Maryland,Rockville,rockville,maryland,0.0026014823540961075,0.002269323067625486,country
+US,Maryland,Annapolis,annapolis,maryland,0.002257890345064546,0.002238114014940562,country
+US,Tennessee,Chattanooga,chattanooga,tennessee,0.002061552054189368,0.002126399915446123,country
+US,New Jersey,Westfield,westfield,new jersey,0.001963382908751779,0.0021114837443817064,country
+US,Michigan,Bloomfield Hills,bloomfield hills,michigan,0.0015216217542826289,0.0020951962828814987,country
+US,Pennsylvania,Lancaster,lancaster,pennsylvania,0.002061552054189368,0.0020920471929874486,country
+CA,Alberta,Calgary,calgary,alberta,0.08056872037914692,0.0722393952124198,country
+US,Massachusetts,Somerville,somerville,massachusetts,0.002257890345064546,0.0020111085365539685,country
+US,Illinois,Evanston,evanston,illinois,0.002012467481470574,0.0020040732204051268,country
+CA,Ontario,Toronto,toronto,ontario,0.05529225908372828,0.07125800800771839,country
+US,Pennsylvania,West Chester,west chester,pennsylvania,0.001717960045157807,0.0019444085361474597,country
+US,Connecticut,New Canaan,new canaan,connecticut,0.0015707063270014234,0.0019304300458948685,country
+US,Oregon,Lake Oswego,lake oswego,oregon,0.001963382908751779,0.0019122672227710096,country
+US,Colorado,Littleton,littleton,colorado,0.002012467481470574,0.0018870311426562114,country
+US,Idaho,Boise,boise,idaho,0.0018652137633141904,0.0018861259825661831,country
+US,Connecticut,Stamford,stamford,connecticut,0.001963382908751779,0.0018750255761926637,country
+US,Pennsylvania,Doylestown,doylestown,pennsylvania,0.0016197908997202179,0.001874087895380838,country
+US,Hawaii,Ewa Beach,ewa beach,hawaii,0.001128945172532273,0.0018731556346893118,country
+US,Illinois,Wilmette,wilmette,illinois,0.0015707063270014234,0.0018613126718347514,country
+US,Utah,Salt Lake City,salt lake city,utah,0.0018652137633141904,0.001857811274121229,country
+US,Ohio,Dublin,dublin,ohio,0.0017670446178766014,0.0018466783470259122,country
+US,Alabama,Mobile,mobile,alabama,0.0017670446178766014,0.0018350034079006384,country
+US,Connecticut,Fairfield,fairfield,connecticut,0.001816129190595396,0.0018027157512760994,country
+US,Missouri,Chesterfield,chesterfield,missouri,0.0016197908997202179,0.001783647768062212,country
+CA,Ontario,Ottawa,ottawa,ontario,0.0679304897314376,0.062127326502970974,country
+US,Ohio,Cleveland,cleveland,ohio,0.0015707063270014234,0.0017326877970056545,country
+US,Louisiana,Metairie,metairie,louisiana,0.00142345260884504,0.001727034611533203,country
+US,Rhode Island,Providence,providence,rhode island,0.001717960045157807,0.0017087850664845507,country
+US,Indiana,Bloomington,bloomington,indiana,0.0018652137633141904,0.0016136782155879948,country
+US,Colorado,Fort Collins,fort collins,colorado,0.0016688754724390124,0.0016121714221447145,country
+US,New Jersey,Princeton,princeton,new jersey,0.0017670446178766014,0.001610816392069822,country
+US,New York,New York,new york,new york,0.0016688754724390124,0.0015873743717741817,country
+US,Connecticut,Norwalk,norwalk,connecticut,0.002552397781377313,0.001575948758182688,country
+US,Illinois,Downers Grove,downers grove,illinois,0.00142345260884504,0.0015535853418266617,country
+US,Colorado,Aurora,aurora,colorado,0.001816129190595396,0.0015531842529244938,country
+US,Arizona,Gilbert,gilbert,arizona,0.001816129190595396,0.0015526314006539376,country
+US,Arkansas,Bentonville,bentonville,arkansas,0.0015707063270014234,0.0015266907049001953,country
+US,Arizona,Mesa,mesa,arizona,0.0016197908997202179,0.0014723973598594021,country
+US,Texas,Houston,houston,texas,0.0012761988906886566,0.0014324998543342668,country
+US,Oregon,Eugene,eugene,oregon,0.0015707063270014234,0.0014220444422763962,country
+US,Minnesota,Plymouth,plymouth,minnesota,0.00142345260884504,0.0014024127665513537,country
+US,Oregon,Beaverton,beaverton,oregon,0.0015707063270014234,0.0013954912729288026,country
+CA,British Columbia,Vancouver,vancouver,british columbia,0.04739336492890995,0.04957239833056161,country
+CA,British Columbia,Surrey,surrey,british columbia,0.05055292259083728,0.04848299681087735,country
+US,Alabama,Madison,madison,alabama,0.001325283463407451,0.001357263164455935,country
+US,Kansas,Olathe,olathe,kansas,0.001227114317969862,0.0013380813587157566,country
+US,Oklahoma,Norman,norman,oklahoma,0.001325283463407451,0.001322926702358159,country
+US,Missouri,Springfield,springfield,missouri,0.001128945172532273,0.0013100972776090764,country
+US,Hawaii,Kailua,kailua,hawaii,0.001128945172532273,0.0012939886800787544,country
+US,Missouri,Saint Charles,saint charles,missouri,0.001128945172532273,0.0012922379812219933,country
+CA,British Columbia,Burnaby,burnaby,british columbia,0.044233807266982623,0.04496963833335455,country
+US,Michigan,Plymouth,plymouth,michigan,0.0012761988906886566,0.0012503838122687133,country
+CA,Quebec,Montreal,montreal,quebec,0.05055292259083728,0.04414352170644101,country
+US,Delaware,Newark,newark,delaware,0.001030776027094684,0.0012389636187975193,country
+US,Massachusetts,Berkley,berkley,massachusetts,0.0028959897904088745,0.00120920173823258,country
+US,Florida,Miami,miami,florida,0.0013743680361262456,0.0011946974963109307,country
+US,Arkansas,Rogers,rogers,arkansas,0.001128945172532273,0.0011845889719522325,country
+US,West Virginia,Morgantown,morgantown,west virginia,0.0009816914543758896,0.0011788544846752873,country
+US,Iowa,Cedar Rapids,cedar rapids,iowa,0.0009816914543758896,0.0011494340716892211,country
+US,Delaware,New Castle,new castle,delaware,0.0014725371815638344,0.001142729382878653,country
+US,Idaho,Meridian,meridian,idaho,0.0009816914543758896,0.0011394610503380124,country
+US,New Mexico,Santa Fe,santa fe,new mexico,0.001030776027094684,0.0011366317475416366,country
+US,Alabama,Fairhope,fairhope,alabama,0.0009326068816570952,0.0011342902555722223,country
+US,Oregon,Salem,salem,oregon,0.001227114317969862,0.001132696740204149,country
+US,Washington,Spokane,spokane,washington,0.001128945172532273,0.001120187102552741,country
+US,Hawaii,Kaneohe,kaneohe,hawaii,0.0010798605998134786,0.0011180895159968074,country
+US,Arkansas,Fayetteville,fayetteville,arkansas,0.001227114317969862,0.0010891189729956058,country
+US,Arkansas,Jonesboro,jonesboro,arkansas,0.002208805772345752,0.0010878018837628101,country
+US,Michigan,Macomb,macomb,michigan,0.001128945172532273,0.0010809400114635544,country
+US,Delaware,Lewes,lewes,delaware,0.001030776027094684,0.0010637419697530185,country
+US,Indiana,West Lafayette,west lafayette,indiana,0.001227114317969862,0.0010585765951075285,country
+US,Nebraska,Lincoln,lincoln,nebraska,0.0009816914543758896,0.0010560020379652326,country
+US,Utah,South Jordan,south jordan,utah,0.0008344377362195062,0.0010525602615750057,country
+US,Maine,Portland,portland,maine,0.0010798605998134786,0.0010501754086431948,country
+US,Hawaii,Mililani,mililani,hawaii,0.0011780297452510676,0.001034240254962459,country
+US,New York,Brooklyn,brooklyn,new york,0.001227114317969862,0.0010279637556555568,country
+US,New Hampshire,Nashua,nashua,new hampshire,0.0009326068816570952,0.0009946625365349984,country
+US,Oklahoma,Broken Arrow,broken arrow,oklahoma,0.001030776027094684,0.000986169208025572,country
+US,Kentucky,Paducah,paducah,kentucky,0.0007362685907819172,0.0009611824534445541,country
+US,New Hampshire,Manchester,manchester,new hampshire,0.0010798605998134786,0.0009611336723618581,country
+US,Minnesota,Eden Prairie,eden prairie,minnesota,0.0007853531635007117,0.000947166022349866,country
+CA,British Columbia,North Vancouver,north vancouver,british columbia,0.03475513428120063,0.033200900067856136,country
+US,Rhode Island,Barrington,barrington,rhode island,0.0008835223089383007,0.0009141954305675815,country
+US,Illinois,Chicago,chicago,illinois,0.0008344377362195062,0.0008933984289781311,country
+CA,Alberta,Edmonton,edmonton,alberta,0.030015797788309637,0.031228095757776356,country
+US,Mississippi,Madison,madison,mississippi,0.0008344377362195062,0.0008630349150599398,country
+US,Alaska,Anchorage,anchorage,alaska,0.0008344377362195062,0.000846568589589846,country
+US,Idaho,Kuna,kuna,idaho,0.00039267658175035585,0.0008464330865823568,country
+US,New Mexico,Las Cruces,las cruces,new mexico,0.0005890148726255338,0.0008281347604510083,country
+CA,British Columbia,Victoria,victoria,british columbia,0.030015797788309637,0.029424642462973275,country
+US,Kansas,Lawrence,lawrence,kansas,0.0008344377362195062,0.0008094190850565928,country
+US,Utah,Park City,park city,utah,0.0007362685907819172,0.0008012184430433434,country
+US,Iowa,Iowa City,iowa city,iowa,0.0008344377362195062,0.0008002374012691212,country
+US,Kentucky,Bowling Green,bowling green,kentucky,0.0007362685907819172,0.0007913104631357294,country
+US,Wisconsin,Whitefish Bay,whitefish bay,wisconsin,0.0006871840180631228,0.0007756950965526681,country
+US,Wisconsin,Waukesha,waukesha,wisconsin,0.0006871840180631228,0.0007623019792924304,country
+US,North Dakota,Fargo,fargo,north dakota,0.0006380994453443283,0.0007607464047664537,country
+US,Mississippi,Gulfport,gulfport,mississippi,0.0006871840180631228,0.0007529956327380687,country
+US,Minnesota,Minnetonka,minnetonka,minnesota,0.0008344377362195062,0.0007391526454929668,country
+US,Montana,Billings,billings,montana,0.0005890148726255338,0.0007377271538541797,country
+US,Kansas,Leawood,leawood,kansas,0.0007853531635007117,0.0007173637618886951,country
+US,Iowa,Des Moines,des moines,iowa,0.0007853531635007117,0.0007062741957557748,country
+US,Wisconsin,Appleton,appleton,wisconsin,0.0006380994453443283,0.0007035532953653907,country
+US,South Dakota,Sioux Falls,sioux falls,south dakota,0.0005890148726255338,0.0007034503130796988,country
+UK,England,Bristol,bristol,england,0.047619047619047616,0.07896791643464267,country
+US,Maine,Scarborough,scarborough,maine,0.0006380994453443283,0.0006976020032764627,country
+US,Utah,Sandy,sandy,utah,0.0005890148726255338,0.0006803985414456274,country
+US,Nebraska,Elkhorn,elkhorn,nebraska,0.0005890148726255338,0.0006790868723331315,country
+US,New Hampshire,Hampton,hampton,new hampshire,0.0005890148726255338,0.0006767779010855146,country
+US,West Virginia,Wheeling,wheeling,west virginia,0.00039267658175035585,0.0006619701324270892,country
+US,New Hampshire,Portsmouth,portsmouth,new hampshire,0.0005890148726255338,0.0005999205952376113,country
+US,Iowa,West Des Moines,west des moines,iowa,0.0005890148726255338,0.0005999043348767126,country
+US,Iowa,Ames,ames,iowa,0.0005890148726255338,0.0005543753243603242,country
+US,Wyoming,Cheyenne,cheyenne,wyoming,0.0004908457271879448,0.000544884693715777,country
+US,Vermont,South Burlington,south burlington,vermont,0.0002945074363127669,0.0005385377328449805,country
+US,West Virginia,Huntington,huntington,west virginia,0.0004908457271879448,0.0005381637445443101,country
+US,Montana,Bozeman,bozeman,montana,0.0006380994453443283,0.0005332964765152962,country
+US,Idaho,Eagle,eagle,idaho,0.0005399302999067393,0.0005221093482169837,country
+CA,Ontario,Ottawa,ottawa,ontario,0.014218009478672985,0.01849706567540387,country
+US,Delaware,Middletown,middletown,delaware,0.0005890148726255338,0.0005180008970299096,country
+US,Rhode Island,Warwick,warwick,rhode island,0.0005399302999067393,0.0005031389271684884,country
+US,Mississippi,Southaven,southaven,mississippi,0.0004908457271879448,0.0004874205782997354,country
+US,Rhode Island,Cranston,cranston,rhode island,0.0005399302999067393,0.00048181075378968036,country
+US,Maine,Falmouth,falmouth,maine,0.0004908457271879448,0.00048166441054159196,country
+US,Wyoming,Sheridan,sheridan,wyoming,0.0003435920090315614,0.00047566433736996795,country
+US,Mississippi,Jackson,jackson,mississippi,0.0004908457271879448,0.0004629270546659783,country
+US,North Dakota,West Fargo,west fargo,north dakota,0.0003435920090315614,0.000456325348141102,country
+US,West Virginia,Charleston,charleston,west virginia,0.00044176115446915035,0.00044352302399351754,country
+CA,Ontario,Markham,markham,ontario,0.018957345971563982,0.015656674956765343,country
+US,New Hampshire,Exeter,exeter,new hampshire,0.0004908457271879448,0.0004334144996348194,country
+US,Nebraska,Papillion,papillion,nebraska,0.0003435920090315614,0.00043137653440218106,country
+US,Rhode Island,East Greenwich,east greenwich,rhode island,0.0004908457271879448,0.00042889411930497793,country
+CA,British Columbia,Victoria,victoria,british columbia,0.01263823064770932,0.01525355010263289,country
+US,Vermont,Burlington,burlington,vermont,0.00039267658175035585,0.0004214739746148666,country
+US,Montana,Kalispell,kalispell,montana,0.0002454228635939724,0.0004180809793073357,country
+US,Mississippi,Hattiesburg,hattiesburg,mississippi,0.0004908457271879448,0.00041642242249566725,country
+US,Wyoming,Rock Springs,rock springs,wyoming,0.0002945074363127669,0.0003785466218422718,country
+US,Vermont,Stowe,stowe,vermont,0.0002945074363127669,0.0003757606800082928,country
+US,New Mexico,Los Alamos,los alamos,new mexico,0.0002454228635939724,0.0003741238036778226,country
+US,South Dakota,Rapid City,rapid city,south dakota,0.0003435920090315614,0.0003693757782953993,country
+UK,England,Swindon,swindon,england,0.021645021645021644,0.04140511697069461,country
+US,Texas,Austin,austin,texas,0.00044176115446915035,0.0003544162462685859,country
+US,Texas,Dallas,dallas,texas,0.00039267658175035585,0.00035436746518588977,country
+US,California,San Francisco,san francisco,california,0.00044176115446915035,0.0003508877479535658,country
+US,Maine,Bangor,bangor,maine,0.0002945074363127669,0.0003448117930977478,country
+US,Alaska,Cordova,cordova,alaska,0.00019633829087517792,0.00034263290473732065,country
+US,Montana,Great Falls,great falls,montana,0.00039267658175035585,0.0003403130932491047,country
+CA,Nova Scotia,Halifax,halifax,nova scotia,0.011058451816745656,0.01201717118995899,country
+US,New Mexico,Tijeras,tijeras,new mexico,0.0002945074363127669,0.0003334783215513468,country
+CA,Alberta,Calgary,calgary,alberta,0.01263823064770932,0.011433315240935575,country
+US,North Dakota,Bismarck,bismarck,north dakota,0.0002945074363127669,0.00031995512140391955,country
+US,Ohio,Dayton,dayton,ohio,0.00019633829087517792,0.0003077381702486887,country
+US,Florida,Boca Raton,boca raton,florida,0.00019633829087517792,0.0003061988560836107,country
+US,North Dakota,Dickinson,dickinson,north dakota,0.0002454228635939724,0.00030551592092586494,country
+US,Oregon,Portland,portland,oregon,0.0003435920090315614,0.0003052286545499877,country
+US,West Virginia,Hurricane,hurricane,west virginia,0.0003435920090315614,0.000301770617798862,country
+CA,British Columbia,Surrey,surrey,british columbia,0.009478672985781991,0.010723506885333934,country
+UK,England,Sheffield,sheffield,england,0.021645021645021644,0.033971985778713354,country
+US,Texas,San Antonio,san antonio,texas,0.0002454228635939724,0.0002980740957545553,country
+US,Montana,Missoula,missoula,montana,0.0003435920090315614,0.00029723939722842147,country
+US,Georgia,Marietta,marietta,georgia,4.908457271879448e-05,0.0002920794427032308,country
+US,Nebraska,Bellevue,bellevue,nebraska,0.0003435920090315614,0.0002851958899227768,country
+US,Ohio,Cincinnati,cincinnati,ohio,0.0003435920090315614,0.00027880556808958375,country
+US,Vermont,Essex Junction,essex junction,vermont,0.0003435920090315614,0.00027875678700688757,country
+US,California,Los Angeles,los angeles,california,0.0003435920090315614,0.0002730602405720395,country
+US,Maine,Eliot,eliot,maine,0.0002945074363127669,0.0002701442158508708,country
+CA,Ontario,Guelph,guelph,ontario,0.009478672985781991,0.009529562939362694,country
+US,Kentucky,Middlesboro,middlesboro,kentucky,0.0006380994453443283,0.0002639923793108588,country
+US,Nevada,Carson City,carson city,nevada,0.0002945074363127669,0.0002569624832823164,country
+CA,Ontario,Kingston,kingston,ontario,0.007898894154818325,0.009080339118657197,country
+US,California,San Jose,san jose,california,0.0003435920090315614,0.00024655585230714194,country
+UK,Scotland,Glasgow,glasgow,scotland,0.021645021645021644,0.027821462883298554,country
+US,Nevada,North Las Vegas,north las vegas,nevada,0.0002945074363127669,0.00024387831287915436,country
+US,Vermont,Hyde Park,hyde park,vermont,0.0003435920090315614,0.0002384961334216813,country
+US,Florida,Orlando,orlando,florida,0.0002454228635939724,0.00023231177615987188,country
+US,Hawaii,Honolulu,honolulu,hawaii,0.0002945074363127669,0.00022263686142513932,country
+CA,Manitoba,Winnipeg,winnipeg,manitoba,0.00631911532385466,0.007748098272966833,country
+US,South Dakota,Lennox,lennox,south dakota,0.00014725371815638345,0.00021255543766793904,country
+US,Alaska,Fairbanks,fairbanks,alaska,0.0002454228635939724,0.00021215434876577086,country
+US,Tennessee,Nashville,nashville,tennessee,0.0002454228635939724,0.00020868005165374645,country
+US,Washington,Seattle,seattle,washington,0.0002454228635939724,0.00020346589592556006,country
+UK,England,Hove,hove,england,0.017316017316017316,0.022703268325816775,country
+US,Nevada,Las Vegas,las vegas,nevada,0.00014725371815638345,0.00020089675890356385,country
+UK,England,Birmingham,birmingham,england,0.017316017316017316,0.022675731411052707,country
+US,Arizona,Phoenix,phoenix,arizona,0.0002454228635939724,0.00020069621445247975,country
+UK,Scotland,Edinburgh,edinburgh,scotland,0.017316017316017316,0.02195548810711248,country
+UK,England,Manchester,manchester,england,0.017316017316017316,0.021658089427660527,country
+US,North Carolina,Charlotte,charlotte,north carolina,0.00014725371815638345,0.00019008903902622117,country
+US,Alaska,Sitka,sitka,alaska,0.0002454228635939724,0.00018446295415526747,country
+CA,British Columbia,Burnaby,burnaby,british columbia,0.00631911532385466,0.006333882277512693,country
+US,Oregon,Lake Oswego,lake oswego,oregon,0.00014725371815638345,0.00017777994582589762,country
+CA,New Brunswick,Dieppe,dieppe,new brunswick,0.004739336492890996,0.006204650864943916,country
+US,Nebraska,Lincoln,lincoln,nebraska,9.816914543758896e-05,0.00016334616546814256,country
+UK,England,Brighton,brighton,england,0.017316017316017316,0.018412405074135493,country
+US,Wyoming,Cody,cody,wyoming,0.00019633829087517792,0.000161096815543821,country
+US,Ohio,Columbus,columbus,ohio,0.0002454228635939724,0.00015843011635643253,country
+US,Pennsylvania,Philadelphia,philadelphia,pennsylvania,0.00019633829087517792,0.00015834881455193897,country
+CA,Saskatchewan,Saskatoon,saskatoon,saskatchewan,0.004739336492890996,0.005545377778137826,country
+CA,Ontario,Guelph,guelph,ontario,0.004739336492890996,0.005540555710504663,country
+US,Utah,Eagle Mountain,eagle mountain,utah,0.00014725371815638345,0.00015401813843258252,country
+US,California,Oakland,oakland,california,0.00014725371815638345,0.00014887444426829054,country
+CA,British Columbia,North Vancouver,north vancouver,british columbia,0.004739336492890996,0.005241008869132557,country
+US,South Dakota,Madison,madison,south dakota,0.00014725371815638345,0.00014582833665993216,country
+US,New Jersey,Princeton,princeton,new jersey,0.00014725371815638345,0.00014213723473592498,country
+US,Indiana,Indianapolis,indianapolis,indiana,0.00014725371815638345,0.00014034859503706684,country
+US,Virginia,Virginia Beach,virginia beach,virginia,0.0002454228635939724,0.00013937839350344378,country
+CA,Quebec,Montreal,montreal,quebec,0.004739336492890996,0.00493201077519945,country
+UK,Wales,Cardiff,cardiff,wales,0.012987012987012988,0.014835665812002423,country
+CA,Alberta,Edmonton,edmonton,alberta,0.004739336492890996,0.004644808426968243,country
+US,Arizona,Scottsdale,scottsdale,arizona,0.00019633829087517792,0.00012831592797202135,country
+US,Georgia,Atlanta,atlanta,georgia,0.00014725371815638345,0.00012600153660410492,country
+US,Arizona,Mesa,mesa,arizona,9.816914543758896e-05,0.00012443512183752918,country
+US,Arkansas,Little Rock,little rock,arkansas,0.00014725371815638345,0.00012322643501072505,country
+CA,Alberta,St. Albert,st. albert,alberta,0.00631911532385466,0.004358570492263668,country
+US,Virginia,Alexandria,alexandria,virginia,0.00014725371815638345,0.00012179552325163857,country
+US,Kentucky,Louisville,louisville,kentucky,0.00014725371815638345,0.000121790103131339,country
+US,Wyoming,Casper,casper,wyoming,0.00014725371815638345,0.00012098250520670307,country
+US,Illinois,Downers Grove,downers grove,illinois,9.816914543758896e-05,0.00012008276523697445,country
+US,Idaho,Coeur D'Alene,coeur d'alene,idaho,0.00014725371815638345,0.00011875483576357977,country
+CA,Ontario,Markham,markham,ontario,0.004739336492890996,0.004221238006071176,country
+US,Alaska,Wasilla,wasilla,alaska,0.00014725371815638345,0.0001148957101102859,country
+US,Maryland,Rockville,rockville,maryland,0.00014725371815638345,0.00010989293907378275,country
+US,Hawaii,Kaneohe,kaneohe,hawaii,0.00014725371815638345,0.00010883601561536658,country
+US,Alabama,Huntsville,huntsville,alabama,9.816914543758896e-05,0.00010793627564563795,country
+US,Minnesota,Saint Paul,saint paul,minnesota,0.00014725371815638345,0.00010540507946573874,country
+CA,Quebec,Dorval,dorval,quebec,0.00315955766192733,0.003725915218792639,country
+US,North Dakota,Grand Forks,grand forks,north dakota,9.816914543758896e-05,0.00010324245146621028,country
+US,Massachusetts,Somerville,somerville,massachusetts,9.816914543758896e-05,0.00010053781143672485,country
+US,South Dakota,Aberdeen,aberdeen,south dakota,9.816914543758896e-05,9.927492340692502e-05,country
+UK,Scotland,Dunfermline,dunfermline,scotland,0.008658008658008658,0.01104842213478402,country
+UK,Scotland,Aberdeen,aberdeen,scotland,0.008658008658008658,0.010967647184809415,country
+US,Virginia,Richmond,richmond,virginia,9.816914543758896e-05,9.652150229474344e-05,country
+US,Utah,Salt Lake City,salt lake city,utah,9.816914543758896e-05,9.633179808425848e-05,country
+US,Florida,Tampa,tampa,florida,9.816914543758896e-05,9.554046052052126e-05,country
+CA,Quebec,Cote-Saint-Luc,cote-saint-luc,quebec,0.001579778830963665,0.003323369012776165,country
+UK,Wales,Aberdare,aberdare,wales,0.004329004329004329,0.010412013438014405,country
+UK,Northern Ireland,Newry,newry,northern ireland,0.008658008658008658,0.010285955561538886,country
+CA,Quebec,Blainville,blainville,quebec,0.00315955766192733,0.003138201615662693,country
+US,Virginia,Fairfax,fairfax,virginia,9.816914543758896e-05,8.789809089812748e-05,country
+US,Arkansas,Bentonville,bentonville,arkansas,9.816914543758896e-05,8.783846957483222e-05,country
+US,Kansas,Wichita,wichita,kansas,9.816914543758896e-05,8.621785360526077e-05,country
+US,Indiana,Bloomington,bloomington,indiana,4.908457271879448e-05,8.58330250639913e-05,country
+US,Oregon,Salem,salem,oregon,9.816914543758896e-05,8.563790073320678e-05,country
+US,Pennsylvania,West Chester,west chester,pennsylvania,9.816914543758896e-05,8.503084725965492e-05,country
+US,New York,Bronx,bronx,new york,9.816914543758896e-05,8.438043282370652e-05,country
+US,Oklahoma,Tulsa,tulsa,oklahoma,9.816914543758896e-05,8.408774632752973e-05,country
+US,Texas,Fort Worth,fort worth,texas,9.816914543758896e-05,8.390346223734436e-05,country
+CA,New Brunswick,Moncton,moncton,new brunswick,0.00315955766192733,0.002982545272464181,country
+US,Iowa,Des Moines,des moines,iowa,9.816914543758896e-05,8.292784058342174e-05,country
+CA,Saskatchewan,Saskatoon,saskatoon,saskatchewan,0.001579778830963665,0.0029404968427029967,country
+US,South Carolina,Greenville,greenville,south carolina,9.816914543758896e-05,7.927467950151154e-05,country
+US,Wisconsin,Milwaukee,milwaukee,wisconsin,9.816914543758896e-05,7.919879781731756e-05,country
+US,New Mexico,Albuquerque,albuquerque,new mexico,9.816914543758896e-05,7.75619214868474e-05,country
+US,Maryland,Silver Spring,silver spring,maryland,9.816914543758896e-05,7.422312738231226e-05,country
+CA,Quebec,Blainville,blainville,quebec,0.001579778830963665,0.00229993337831358,country
+CA,Saskatchewan,Yellow Grass,yellow grass,saskatchewan,0.001579778830963665,0.002268686380050682,country
+US,Oregon,Eugene,eugene,oregon,9.816914543758896e-05,6.356717087335753e-05,country
+US,New York,Staten Island,staten island,new york,9.816914543758896e-05,5.9718885460662806e-05,country
+UK,Scotland,Banchory,banchory,scotland,0.004329004329004329,0.006714723682358629,country
+US,California,San Diego,san diego,california,9.816914543758896e-05,5.746411541604166e-05,country
+CA,Newfoundland and Labrador,St. John'S,st. john's,newfoundland and labrador,0.001579778830963665,0.00200231536399474,country
+CA,Quebec,Brossard,brossard,quebec,0.001579778830963665,0.0019963360001296173,country
+CA,Quebec,Brossard,brossard,quebec,0.001579778830963665,0.0019265124608014122,country
+US,Illinois,Evanston,evanston,illinois,4.908457271879448e-05,5.3783853732633596e-05,country
+CA,New Brunswick,Fredericton,fredericton,new brunswick,0.001579778830963665,0.0018946868144225344,country
+US,Louisiana,Lafayette,lafayette,louisiana,4.908457271879448e-05,5.317138013878218e-05,country
+CA,Newfoundland and Labrador,Paradise,paradise,newfoundland and labrador,0.001579778830963665,0.0018854284445668607,country
+US,Connecticut,Greenwich,greenwich,connecticut,4.908457271879448e-05,5.1881391507484506e-05,country
+US,West Virginia,Charleston,charleston,west virginia,4.908457271879448e-05,5.170794765789827e-05,country
+UK,Wales,Port Talbot,port talbot,wales,0.004329004329004329,0.0057240066822913166,country
+CA,Saskatchewan,Regina,regina,saskatchewan,0.001579778830963665,0.001791494567072839,country
+UK,Scotland,Barrhead,barrhead,scotland,0.004329004329004329,0.005604068120207812,country
+UK,Wales,Merthyr Tydfil,merthyr tydfil,wales,0.004329004329004329,0.005452309123285827,country
+US,Pennsylvania,Pittsburgh,pittsburgh,pennsylvania,4.908457271879448e-05,4.823365054587386e-05,country
+UK,Northern Ireland,Belfast,belfast,northern ireland,0.004329004329004329,0.005407026196784913,country
+US,Hawaii,Kailua,kailua,hawaii,4.908457271879448e-05,4.767537815501815e-05,country
+CA,Manitoba,Headingley,headingley,manitoba,0.001579778830963665,0.001665542160494613,country
+US,Kentucky,Lexington,lexington,kentucky,4.908457271879448e-05,4.653173277180887e-05,country
+UK,Scotland,Balerno,balerno,scotland,0.004329004329004329,0.005175716112766726,country
+US,Alaska,Fairbanks,fairbanks,alaska,4.908457271879448e-05,4.552901051638841e-05,country
+CA,Nova Scotia,Dartmouth,dartmouth,nova scotia,0.001579778830963665,0.0016038196947901226,country
+UK,Wales,Clarbeston Road,clarbeston road,wales,0.004329004329004329,0.004980509983661431,country
+UK,Northern Ireland,Craigavon,craigavon,northern ireland,0.004329004329004329,0.004945629891626942,country
+US,Washington,Vancouver,vancouver,washington,4.908457271879448e-05,4.3637388531838466e-05,country
+US,Minnesota,Minnetonka,minnetonka,minnesota,4.908457271879448e-05,4.3528986125847064e-05,country
+US,Nevada,Henderson,henderson,nevada,4.908457271879448e-05,4.3469364802551794e-05,country
+US,Louisiana,Shreveport,shreveport,louisiana,4.908457271879448e-05,4.3458524561952655e-05,country
+US,Ohio,Dublin,dublin,ohio,4.908457271879448e-05,4.331760143416383e-05,country
+US,Alabama,Mobile,mobile,alabama,4.908457271879448e-05,4.331760143416383e-05,country
+UK,Wales,Cwmbran,cwmbran,wales,0.004329004329004329,0.004883824816267586,country
+US,Iowa,West Des Moines,west des moines,iowa,4.908457271879448e-05,4.291651253199565e-05,country
+US,Rhode Island,Warwick,warwick,rhode island,4.908457271879448e-05,4.291651253199565e-05,country
+CA,Ontario,Kingston,kingston,ontario,0.001579778830963665,0.0015216516623210194,country
+US,Iowa,Iowa City,iowa city,iowa,4.908457271879448e-05,4.251542362982746e-05,country
+CA,Manitoba,Winnipeg,winnipeg,manitoba,0.001579778830963665,0.001504870866957611,country
+UK,Wales,Swansea,swansea,wales,0.004329004329004329,0.004697797658750314,country
+UK,Wales,Llanidloes,llanidloes,wales,0.004329004329004329,0.004679439715574267,country
+US,Washington,Bellevue,bellevue,washington,4.908457271879448e-05,4.120917463763108e-05,country
+US,Illinois,Wilmette,wilmette,illinois,4.908457271879448e-05,4.1133292953437104e-05,country
+US,Utah,Park City,park city,utah,4.908457271879448e-05,4.096526922415043e-05,country
+US,Colorado,Denver,denver,colorado,4.908457271879448e-05,4.081350585576247e-05,country
+UK,Northern Ireland,Dromara,dromara,northern ireland,0.004329004329004329,0.004602948285674074,country
+US,Minnesota,Minneapolis,minneapolis,minnesota,4.908457271879448e-05,4.0770144893365905e-05,country
+US,Oklahoma,Oklahoma City,oklahoma city,oklahoma,4.908457271879448e-05,4.061838152497795e-05,country
+US,New Mexico,Santa Fe,santa fe,new mexico,4.908457271879448e-05,4.0455777915990845e-05,country
+US,Oklahoma,Broken Arrow,broken arrow,oklahoma,4.908457271879448e-05,4.010889021681836e-05,country
+US,North Carolina,Raleigh,raleigh,north carolina,4.908457271879448e-05,4.010347009651879e-05,country
+US,West Virginia,Huntington,huntington,west virginia,4.908457271879448e-05,4.00113280514261e-05,country
+US,New Jersey,Hoboken,hoboken,new jersey,4.908457271879448e-05,3.987040492363728e-05,country
+US,Arizona,Tucson,tucson,arizona,4.908457271879448e-05,3.967528059285276e-05,country
+US,Michigan,Ann Arbor,ann arbor,michigan,4.908457271879448e-05,3.964275987105534e-05,country
+US,Maryland,Bethesda,bethesda,maryland,4.908457271879448e-05,3.963733975075577e-05,country
+US,Wyoming,Cheyenne,cheyenne,wyoming,4.908457271879448e-05,3.963733975075577e-05,country
+US,Virginia,Arlington,arlington,virginia,4.908457271879448e-05,3.963733975075577e-05,country
+US,Idaho,Boise,boise,idaho,4.908457271879448e-05,3.963733975075577e-05,country
+US,Michigan,Grand Rapids,grand rapids,michigan,4.908457271879448e-05,3.963733975075577e-05,country
+US,Georgia,Alpharetta,alpharetta,georgia,4.908457271879448e-05,3.9219990487688875e-05,country
+US,Hawaii,Ewa Beach,ewa beach,hawaii,4.908457271879448e-05,3.915494904409403e-05,country
+US,Alaska,Anchorage,anchorage,alaska,4.908457271879448e-05,3.900860579600564e-05,country
+US,New Jersey,Westfield,westfield,new jersey,9.816914543758896e-05,3.854247545024262e-05,country
+CA,Alberta,Wainwright,wainwright,alberta,0.001579778830963665,0.0013681170288810992,country
+UK,Scotland,Aboyne,aboyne,scotland,0.004329004329004329,0.004241296805105956,country
+US,Montana,Bozeman,bozeman,montana,4.908457271879448e-05,3.7393409946733765e-05,country
+US,Delaware,Middletown,middletown,delaware,4.908457271879448e-05,3.7393409946733765e-05,country
+US,South Carolina,Mount Pleasant,mount pleasant,south carolina,4.908457271879448e-05,3.6683374187490096e-05,country
+US,Idaho,Kuna,kuna,idaho,4.908457271879448e-05,3.568065193206963e-05,country
+US,Maryland,Baltimore,baltimore,maryland,4.908457271879448e-05,3.5675231811770056e-05,country
+US,Missouri,Saint Louis,saint louis,missouri,4.908457271879448e-05,3.49814564134251e-05,country
+US,South Carolina,Charleston,charleston,south carolina,4.908457271879448e-05,3.4976036293125527e-05,country
+US,Missouri,Kansas City,kansas city,missouri,4.908457271879448e-05,3.482969304503714e-05,country
+US,Montana,Missoula,missoula,montana,4.908457271879448e-05,3.365894706033e-05,country
+US,Kansas,Leawood,leawood,kansas,9.816914543758896e-05,3.217383409824781e-05,country
+CA,Alberta,West Baptiste,west baptiste,alberta,0.001579778830963665,0.0007807891911618058,country
+US,New Hampshire,Manchester,manchester,new hampshire,4.908457271879448e-05,2.113846916832319e-05,country
