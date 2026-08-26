@@ -1,278 +1,278 @@
 Date,Shipping_City,Shipping_State,Shipping_Country,Marketing_Action,Rain_Amount,Yesterday_Rain,Max_UV_Index,Logic_Summary,Quantity_Sold,Order_Revenue
-2026-08-25,Banff,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Bow Island,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Bragg Creek,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Calgary,Alberta,CA,Baseline,0.0,0.0,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,6.28
-2026-08-25,Chestermere,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Cochrane,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Cold Lake,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Edmonton,Alberta,CA,Baseline,0.0,0.315,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.315 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,2.69
-2026-08-25,Fort Mcmurray,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Fort Saskatchewan,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Grovedale,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Lacombe,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Langdon,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Lethbridge,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Lloydminster,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Millet,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Red Deer,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Sherwood Park,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Spruce Grove,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,St Albert,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,St. Albert,Alberta,CA,Baseline,0.0,0.217,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.217 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,0.33
-2026-08-25,St.Paul,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Wainwright,Alberta,CA,Scale Umbrellas (Residual Demand),0.0,1.402,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 1.402 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | Triggered by: previous-day rain ≥ 0.50 in,0,0.1
-2026-08-25,West Baptiste,Alberta,CA,Baseline,0.0,0.28,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.280 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,0.06
-2026-08-25,Abbotsford,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Burnaby,British Columbia,CA,Baseline,0.0,0.0,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,3.85
-2026-08-25,Chetwynd,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Chilliwack,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Comox,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Coquitlam,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Courtenay,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Cumberland,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Delta,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Garibaldi Highlands,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,"Garibaldi Highlands, Squamish",British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Gibsons,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Harrison Hot Springs,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Kamloops,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Kelowna,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Langford,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Langley,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Lindell Beach,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Lions Bay,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Maple Ridge,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Mission,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Nanaimo,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Nelson,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,New Westminster,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,North Vancouver,British Columbia,CA,Baseline,0.0,0.0,6.05,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.0 (threshold 8) | No marketing threshold met.,0,2.88
-2026-08-25,Penticton,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Port Alberni,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Port Coquitlam,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Port Moody,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Prince George,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Richmond,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Saanichton,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Sechelt,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Shawnigan Lake,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Sidney,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Squamish,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Summerland,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Sun Peaks,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Surrey,British Columbia,CA,Baseline,0.0,0.0,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,4.44
-2026-08-25,Thornhill,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Tobiano,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Tofino,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Vancouver,British Columbia,CA,Baseline,0.0,0.0,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,14.19
-2026-08-25,Vernon,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Victoria,British Columbia,CA,Baseline,0.0,0.0,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,3.35
-2026-08-25,West Vancouver,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Whistler,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,White Rock,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Wynndel,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Headingley,Manitoba,CA,Baseline,0.197,0.0,5.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.197 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 5.0 (threshold 8) | No marketing threshold met.,0,0.12
-2026-08-25,Oak Bluff,Manitoba,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,St Andrews,Manitoba,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Winnipeg,Manitoba,CA,Baseline,0.0,0.031,5.65,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.031 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 5.7 (threshold 8) | No marketing threshold met.,0,0.69
-2026-08-25,Dalhousie,New Brunswick,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Dieppe,New Brunswick,CA,Baseline,0.0,0.142,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.142 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,0.47
-2026-08-25,Fredericton,New Brunswick,CA,Baseline,0.0,0.157,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.157 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,0.14
-2026-08-25,Greenfield,New Brunswick,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Moncton,New Brunswick,CA,Baseline,0.0,0.138,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.138 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,0.22
-2026-08-25,Saint-Antoine Sud,New Brunswick,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Grand Falls Windsor,Newfoundland and Labrador,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Paradise,Newfoundland and Labrador,CA,Scale Umbrellas,0.52,0.024,6.05,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.520 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.024 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.0 (threshold 8) | Triggered by: forecast precip ≥ 0.50 in,0,0.14
-2026-08-25,St. John'S,Newfoundland and Labrador,CA,Baseline,0.0,0.098,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.098 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,0.15
-2026-08-25,Aylesford,Nova Scotia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Bible Hill,Nova Scotia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Dartmouth,Nova Scotia,CA,Baseline,0.0,0.252,6.65,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.252 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.7 (threshold 8) | No marketing threshold met.,0,0.12
-2026-08-25,Halifax,Nova Scotia,CA,Scale Umbrellas (Residual Demand),0.0,0.539,6.65,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.539 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.7 (threshold 8) | Triggered by: previous-day rain ≥ 0.50 in,0,0.9
-2026-08-25,Hammonds Plains,Nova Scotia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Kentville,Nova Scotia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Lower Sackville,Nova Scotia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Mackay Siding,Nova Scotia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Port Williams,Nova Scotia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Upper Tantallon,Nova Scotia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Waverley,Nova Scotia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Alexandria,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Ancaster,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Barrie,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Belle River,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Belleville,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Bolton,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Bowmanville,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Bradford,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Brampton,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Brantford,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Brechin,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Burlington,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Caledon,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Cambridge,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Carlisle,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Carrying Place,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Cobourg,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Crystal Beach,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Deep River,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Delaware,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Drumbo,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Dundas,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Dwight,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,East York,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Elmvale,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Embrun,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Essex,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Etobicoke,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Fergus,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Forest,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Frankford,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Georgetown,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Gloucester,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Golden Lake,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Gravenhurst,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Greely,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Grimsby,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Guelph,Ontario,CA,Baseline,0.0,0.094,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.094 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,1.13
-2026-08-25,Hamilton,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Kanata,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Kincardine,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,King City,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Kingston,Ontario,CA,Baseline,0.0,0.311,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.311 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,0.79
-2026-08-25,Kitchener,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Kleinburg,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Lanark,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Lasalle,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Listowel,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,London,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Maple,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Markham,Ontario,CA,Baseline,0.0,0.209,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.209 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,1.49
-2026-08-25,Meaford,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Metcalfe,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Milton,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Minesing,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Mississauga,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Nepean,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Newcastle,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Newmarket,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Niagara Falls,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,North York,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Oakville,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Orillia,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Orleans,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Oshawa,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Ottawa,Ontario,CA,Baseline,0.0,0.094,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.094 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,6.05
-2026-08-25,Owen Sound,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Paris,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Perth,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Petawawa,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Peterborough,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Petrolia,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Plantagenet,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Port Carling,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Port Elgin,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Port Rowan,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Ravenna,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Richmond Hill,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Rockland,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Sarnia,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Sault Ste. Marie,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Scarborough,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Sharbot Lake,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Smithville,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Southwold,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,St Catharines,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Stevensville,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Stoney Creek,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Stouffville,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Stratford,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Sutton West,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Thornbury,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Thornhill,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Thornton,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Thorold,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Thunder Bay,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Tiny,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Toronto,Ontario,CA,Baseline,0.0,0.118,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.118 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,1,18.58
-2026-08-25,Uxbridge,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Vaughan,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Wahnapitae,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Wasaga Beach,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Waterford,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Waterloo,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Welland,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Whitby,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Whitchurch-Stouffville,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Windsor,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Woodbridge,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Woodstock,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Wyoming,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,York,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Amos,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Beaconsfield,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Blainville,Quebec,CA,Baseline,0.0,0.165,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.165 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,0.41
-2026-08-25,Boucherville,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Brossard,Quebec,CA,Baseline,0.0,0.339,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.339 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,0.29
-2026-08-25,Candiac,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Chateauguay,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Cote Saint-Luc,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Cote-Saint-Luc,Quebec,CA,Baseline,0.0,0.287,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.287 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,0.25
-2026-08-25,Cowansville,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Dollard-Des-Ormeaux,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Dorval,Quebec,CA,Baseline,0.0,0.236,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.236 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,0.28
-2026-08-25,Gatineau,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Granby,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Greenfield Park,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Howick,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Hudson,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Jonquiere,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Kahnawake,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Kanesatake,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Knowlton,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Lachine,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Lasalle,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Laval,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Lery,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Levis,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Longueuil,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Mandeville,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Matane,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Mirabel,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Mont-Royal,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Montreal,Quebec,CA,Baseline,0.0,0.276,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.276 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,3.68
-2026-08-25,Montreal-Nord,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Montréal,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Outremont,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Prevost,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Quebec,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Rimouski,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Saint-Bruno,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Saint-Calixte,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Saint-Constant,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Saint-Esprit,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Saint-Gabriel-De-Valcartier,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Saint-Hubert,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Saint-Jean-Sur-Richelieu,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Saint-Joseph-Du-Lac,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Saint-Lambert,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Saint-Laurent,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Saint-Leonard,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Saint-Simon-De-Rimouski,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Saint-Zotique,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Sainte Catherine,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Sainte-Agathe-Des-Monts,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Sainte-Genevieve,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Salaberry-De-Valleyfield,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Sherbrooke,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,St-Amable,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,St-Eustache,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,St-Ignace De Stanbridge,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,St-Jean-Sur-Richelieu,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Stoneham-Et-Tewkesbury,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Sutton,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Vaudreuil-Dorion,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Verdun,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Westmount,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
-2026-08-25,Regina,Saskatchewan,CA,Baseline,0.0,0.0,6.1,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.1 (threshold 8) | No marketing threshold met.,0,0.13
-2026-08-25,Saskatoon,Saskatchewan,CA,Baseline,0.0,0.142,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.142 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,0.64
-2026-08-25,Yellow Grass,Saskatchewan,CA,Baseline,0.0,0.028,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.028 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,0.17
+2026-08-26,Banff,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Bow Island,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Bragg Creek,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Calgary,Alberta,CA,Baseline,0.0,0.0,6.15,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.2 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Chestermere,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Cochrane,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Cold Lake,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Edmonton,Alberta,CA,Baseline,0.0,0.0,5.65,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 5.7 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Fort Mcmurray,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Fort Saskatchewan,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Grovedale,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Lacombe,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Langdon,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Lethbridge,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Lloydminster,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Millet,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Red Deer,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Sherwood Park,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Spruce Grove,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,St Albert,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,St. Albert,Alberta,CA,Baseline,0.0,0.0,5.65,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 5.7 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,St.Paul,Alberta,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Wainwright,Alberta,CA,Baseline,0.0,0.0,5.75,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 5.8 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,West Baptiste,Alberta,CA,Baseline,0.0,0.0,5.45,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 5.5 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Abbotsford,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Burnaby,British Columbia,CA,Baseline,0.0,0.0,6.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.0 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Chetwynd,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Chilliwack,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Comox,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Coquitlam,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Courtenay,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Cumberland,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Delta,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Garibaldi Highlands,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,"Garibaldi Highlands, Squamish",British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Gibsons,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Harrison Hot Springs,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Kamloops,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Kelowna,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Langford,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Langley,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Lindell Beach,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Lions Bay,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Maple Ridge,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Mission,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Nanaimo,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Nelson,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,New Westminster,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,North Vancouver,British Columbia,CA,Baseline,0.0,0.0,6.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.0 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Penticton,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Port Alberni,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Port Coquitlam,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Port Moody,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Prince George,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Richmond,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Saanichton,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Sechelt,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Shawnigan Lake,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Sidney,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Squamish,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Summerland,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Sun Peaks,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Surrey,British Columbia,CA,Baseline,0.0,0.0,6.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.0 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Thornhill,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Tobiano,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Tofino,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Vancouver,British Columbia,CA,Baseline,0.0,0.0,6.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.0 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Vernon,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Victoria,British Columbia,CA,Baseline,0.0,0.0,6.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.0 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,West Vancouver,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Whistler,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,White Rock,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Wynndel,British Columbia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Headingley,Manitoba,CA,Baseline,0.0,0.272,6.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.272 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.0 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Oak Bluff,Manitoba,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,St Andrews,Manitoba,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Winnipeg,Manitoba,CA,Baseline,0.0,0.283,6.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.283 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.0 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Dalhousie,New Brunswick,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Dieppe,New Brunswick,CA,Baseline,0.0,0.138,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.138 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Fredericton,New Brunswick,CA,Baseline,0.0,0.016,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.016 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Greenfield,New Brunswick,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Moncton,New Brunswick,CA,Baseline,0.0,0.157,6.35,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.157 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.3 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Saint-Antoine Sud,New Brunswick,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Grand Falls Windsor,Newfoundland and Labrador,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Paradise,Newfoundland and Labrador,CA,Baseline,0.008,0.276,6.1,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.008 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.276 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.1 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,St. John'S,Newfoundland and Labrador,CA,Baseline,0.0,0.114,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.114 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Aylesford,Nova Scotia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Bible Hill,Nova Scotia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Dartmouth,Nova Scotia,CA,Baseline,0.0,0.043,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.043 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Halifax,Nova Scotia,CA,Baseline,0.0,0.047,0.0,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.047 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 0.0 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Hammonds Plains,Nova Scotia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Kentville,Nova Scotia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Lower Sackville,Nova Scotia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Mackay Siding,Nova Scotia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Port Williams,Nova Scotia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Upper Tantallon,Nova Scotia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Waverley,Nova Scotia,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Alexandria,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Ancaster,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Barrie,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Belle River,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Belleville,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Bolton,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Bowmanville,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Bradford,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Brampton,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Brantford,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Brechin,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Burlington,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Caledon,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Cambridge,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Carlisle,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Carrying Place,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Cobourg,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Crystal Beach,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Deep River,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Delaware,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Drumbo,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Dundas,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Dwight,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,East York,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Elmvale,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Embrun,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Essex,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Etobicoke,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Fergus,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Forest,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Frankford,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Georgetown,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Gloucester,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Golden Lake,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Gravenhurst,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Greely,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Grimsby,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Guelph,Ontario,CA,Baseline,0.0,0.0,5.25,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 5.2 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Hamilton,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Kanata,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Kincardine,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,King City,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Kingston,Ontario,CA,Baseline,0.0,0.083,6.3,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.083 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.3 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Kitchener,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Kleinburg,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Lanark,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Lasalle,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Listowel,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,London,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Maple,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Markham,Ontario,CA,Baseline,0.0,0.043,5.6,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.043 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 5.6 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Meaford,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Metcalfe,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Milton,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Minesing,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Mississauga,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Nepean,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Newcastle,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Newmarket,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Niagara Falls,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,North York,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Oakville,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Orillia,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Orleans,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Oshawa,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Ottawa,Ontario,CA,Baseline,0.0,0.063,6.2,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.063 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.2 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Owen Sound,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Paris,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Perth,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Petawawa,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Peterborough,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Petrolia,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Plantagenet,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Port Carling,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Port Elgin,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Port Rowan,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Ravenna,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Richmond Hill,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Rockland,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Sarnia,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Sault Ste. Marie,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Scarborough,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Sharbot Lake,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Smithville,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Southwold,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,St Catharines,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Stevensville,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Stoney Creek,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Stouffville,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Stratford,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Sutton West,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Thornbury,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Thornhill,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Thornton,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Thorold,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Thunder Bay,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Tiny,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Toronto,Ontario,CA,Baseline,0.0,0.059,5.5,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.059 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 5.5 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Uxbridge,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Vaughan,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Wahnapitae,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Wasaga Beach,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Waterford,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Waterloo,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Welland,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Whitby,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Whitchurch-Stouffville,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Windsor,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Woodbridge,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Woodstock,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Wyoming,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,York,Ontario,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Amos,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Beaconsfield,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Blainville,Quebec,CA,Baseline,0.0,0.177,6.2,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.177 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.2 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Boucherville,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Brossard,Quebec,CA,Baseline,0.0,0.059,6.2,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.059 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.2 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Candiac,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Chateauguay,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Cote Saint-Luc,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Cote-Saint-Luc,Quebec,CA,Baseline,0.0,0.091,6.25,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.091 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.2 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Cowansville,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Dollard-Des-Ormeaux,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Dorval,Quebec,CA,Baseline,0.0,0.146,6.25,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.146 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.2 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Gatineau,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Granby,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Greenfield Park,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Howick,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Hudson,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Jonquiere,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Kahnawake,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Kanesatake,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Knowlton,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Lachine,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Lasalle,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Laval,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Lery,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Levis,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Longueuil,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Mandeville,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Matane,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Mirabel,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Mont-Royal,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Montreal,Quebec,CA,Baseline,0.0,0.13,6.25,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.130 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.2 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Montreal-Nord,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Montréal,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Outremont,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Prevost,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Quebec,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Rimouski,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Saint-Bruno,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Saint-Calixte,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Saint-Constant,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Saint-Esprit,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Saint-Gabriel-De-Valcartier,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Saint-Hubert,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Saint-Jean-Sur-Richelieu,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Saint-Joseph-Du-Lac,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Saint-Lambert,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Saint-Laurent,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Saint-Leonard,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Saint-Simon-De-Rimouski,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Saint-Zotique,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Sainte Catherine,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Sainte-Agathe-Des-Monts,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Sainte-Genevieve,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Salaberry-De-Valleyfield,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Sherbrooke,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,St-Amable,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,St-Eustache,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,St-Ignace De Stanbridge,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,St-Jean-Sur-Richelieu,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Stoneham-Et-Tewkesbury,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Sutton,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Vaudreuil-Dorion,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Verdun,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Westmount,Quebec,CA,Baseline,0.0,0.0,0.0,No weather hub in marketing snapshot; Baseline applied.,0,0.0
+2026-08-26,Regina,Saskatchewan,CA,Baseline,0.0,0.035,6.05,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.035 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.0 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Saskatoon,Saskatchewan,CA,Baseline,0.0,0.047,5.85,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.047 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 5.8 (threshold 8) | No marketing threshold met.,0,0.0
+2026-08-26,Yellow Grass,Saskatchewan,CA,Baseline,0.0,0.0,6.15,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 6.2 (threshold 8) | No marketing threshold met.,0,0.0
