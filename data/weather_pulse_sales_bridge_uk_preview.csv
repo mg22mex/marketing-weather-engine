@@ -1,11 +1,4 @@
 Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quantity_Sold,Order_Revenue,Marketing_Action,Rain_Amount,Yesterday_Rain,Max_UV_Index,Logic_Summary
-2026-08-30,blocked,,UK,shopify,web,10000-200-419-44,2,162.4,,0.0,0.0,0.0,
-2026-08-30,blocked,,UK,shopify,web,10001-310-00007,1,81.19,,0.0,0.0,0.0,
-2026-08-30,blocked,,UK,shopify,web,10001-790-00005,1,81.19,,0.0,0.0,0.0,
-2026-08-30,blocked,,UK,shopify,web,11005-001-221-55,1,87.95,,0.0,0.0,0.0,
-2026-08-30,blocked,,UK,shopify,web,12005-001-221-51,1,81.19,,0.0,0.0,0.0,
-2026-08-30,blocked,,UK,shopify,web,12005-600-221-51,1,81.19,,0.0,0.0,0.0,
-2026-08-30,blocked,,UK,shopify,web,1K001-GRD-00011,1,40.61,,0.0,0.0,0.0,
 2026-08-31,blocked,,UK,shopify,web,12005-001-221-51,1,81.31,,0.0,0.0,0.0,
 2026-08-31,blocked,,UK,shopify,web,14M00-200-00011,1,94.77,,0.0,0.0,0.0,
 2026-09-01,blocked,,UK,shopify,web,10001-001-00001,1,81.23,,0.0,0.0,0.0,
@@ -13,5 +6,5 @@ Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quan
 2026-09-01,blocked,,UK,shopify,web,12005-600-221-51,1,81.23,,0.0,0.0,0.0,
 2026-09-02,blocked,,UK,shopify,web,12005-200-221-51,1,80.86,,0.0,0.0,0.0,
 2026-09-04,blocked,,UK,shopify,web,11005-001-221-55,4,351.2,,0.0,0.0,0.0,
-2026-09-05,blocked,,UK,shopify,web,WM-12006-464-O/S,1,37.85,Scale Umbrellas (Residual Demand),0.161,0.602,3.95,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.020 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.602 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 3.0 (threshold 8) | Triggered by: previous-day rain ≥ 0.50 in
-2026-09-05,blocked,,UK,shopify,web,WM-1K001-000-O/S,1,28.38,Scale Umbrellas (Residual Demand),0.161,0.602,3.95,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.020 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.602 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 3.0 (threshold 8) | Triggered by: previous-day rain ≥ 0.50 in
+2026-09-05,blocked,,UK,shopify,web,WM-12006-464-O/S,1,37.85,,0.0,0.0,0.0,
+2026-09-05,blocked,,UK,shopify,web,WM-1K001-000-O/S,1,28.38,,0.0,0.0,0.0,
