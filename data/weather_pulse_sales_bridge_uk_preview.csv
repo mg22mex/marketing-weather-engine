@@ -1,5 +1,4 @@
 Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quantity_Sold,Order_Revenue,Marketing_Action,Rain_Amount,Yesterday_Rain,Max_UV_Index,Logic_Summary
-2026-09-04,blocked,,UK,shopify,web,11005-001-221-55,4,351.2,,0.0,0.0,0.0,
 2026-09-05,blocked,,UK,shopify,web,WM-12006-464-O/S,1,37.85,,0.0,0.0,0.0,
 2026-09-05,blocked,,UK,shopify,web,WM-1K001-000-O/S,1,28.38,,0.0,0.0,0.0,
 2026-09-08,blocked,,UK,shopify,web,11005-200-219-55,1,87.92,,0.0,0.0,0.0,
@@ -8,3 +7,6 @@ Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quan
 2026-09-09,blocked,,UK,shopify,web,10001-001-00001,1,81.34,,0.0,0.0,0.0,
 2026-09-09,blocked,,UK,shopify,web,10001-100-00002,1,81.22,,0.0,0.0,0.0,
 2026-09-09,blocked,,UK,shopify,web,11005-200-219-55,1,87.99,,0.0,0.0,0.0,
+2026-09-10,blocked,,UK,shopify,web,1K000-889-00015,1,40.59,,0.0,0.0,0.0,
+2026-09-10,blocked,,UK,shopify,web,1K001-GRD-00011,1,40.59,,0.0,0.0,0.0,
+2026-09-11,blocked,,UK,shopify,web,12005-310-00003,1,81.05,Scale Umbrellas,1.146,0.449,3.05,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.618 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.378 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 2.5 (threshold 8) | Triggered by: forecast precip ≥ 0.50 in
