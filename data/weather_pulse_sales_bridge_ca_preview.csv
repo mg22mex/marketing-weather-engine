@@ -1,8 +1,4 @@
 Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quantity_Sold,Order_Revenue,Marketing_Action,Rain_Amount,Yesterday_Rain,Max_UV_Index,Logic_Summary
-2026-09-06,blocked,,CA,amazon,,10001-889-00014,1,68.83,,0.0,0.0,0.0,
-2026-09-06,blocked,,CA,amazon,,1K001-KDS-00016,1,33.92,,0.0,0.0,0.0,
-2026-09-06,blocked,,CA,amazon,,FBA-10001-001-00001,1,68.83,,0.0,0.0,0.0,
-2026-09-06,blocked,,CA,amazon,,FBA-14M00-001-00001,1,89.78,,0.0,0.0,0.0,
 2026-09-07,blocked,,CA,amazon,,FBA-12005-200-221-51,1,73.97,,0.0,0.0,0.0,
 2026-09-08,blocked,,CA,amazon,,10001-889-00014,1,69.11,,0.0,0.0,0.0,
 2026-09-08,blocked,,CA,amazon,,1K000-889-00015,1,34.05,,0.0,0.0,0.0,
@@ -31,3 +27,5 @@ Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quan
 2026-09-11,blocked,,CA,amazon,,14M01-AP2-00010,1,84.57,,0.0,0.0,0.0,
 2026-09-11,blocked,,CA,amazon,,1K000-200-00012,1,34.29,,0.0,0.0,0.0,
 2026-09-11,blocked,,CA,amazon,,FBA 10001-310-00007,1,68.7,,0.0,0.0,0.0,
+2026-09-12,blocked,,CA,amazon,,1K001-KDS-00016,1,33.86,,0.0,0.0,0.0,
+2026-09-12,blocked,,CA,amazon,,FBA 10001-310-00007,1,63.66,,0.0,0.0,0.0,
