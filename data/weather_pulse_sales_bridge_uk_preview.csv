@@ -1,3 +1,4 @@
 Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quantity_Sold,Order_Revenue,Marketing_Action,Rain_Amount,Yesterday_Rain,Max_UV_Index,Logic_Summary
-2026-09-15,blocked,,UK,shopify,web,14M00-600-00003,1,94.36,,0.0,0.0,0.0,
 2026-09-18,blocked,,UK,shopify,web,1K001-GRD-00011,1,40.18,,0.0,0.0,0.0,
+2026-09-21,blocked,,UK,shopify,web,11005-600-221-55,1,5.0,,0.0,0.0,0.0,
+2026-09-22,blocked,,UK,shopify,web,14M06-NVGA-00009,1,100.28,Scale Umbrellas,1.154,0.043,2.95,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.228 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 2.7 (threshold 8) | Triggered by: forecast precip ≥ 0.20 in
