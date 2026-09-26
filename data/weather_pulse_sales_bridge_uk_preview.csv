@@ -5,4 +5,4 @@ Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quan
 2026-09-22,blocked,,UK,shopify,web,WM-12006-464-O/S,1,37.33,,0.0,0.0,0.0,
 2026-09-23,blocked,,UK,shopify,web,11005-001-221-55,1,5.0,,0.0,0.0,0.0,
 2026-09-24,blocked,,UK,shopify,web,12005-310-00003,1,79.37,,0.0,0.0,0.0,
-2026-09-25,blocked,,UK,shopify,web,WM-40002-001,1,170.98,Baseline,0.059,0.244,3.15,Region UK: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.000 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.000 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 3.0 (threshold 8) | No marketing threshold met.
+2026-09-25,blocked,,UK,shopify,web,WM-40002-001,1,170.98,,0.0,0.0,0.0,

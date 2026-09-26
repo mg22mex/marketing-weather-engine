@@ -1,8 +1,4 @@
 Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quantity_Sold,Order_Revenue,Marketing_Action,Rain_Amount,Yesterday_Rain,Max_UV_Index,Logic_Summary
-2026-09-19,blocked,,CA,amazon,,FBA 10001-310-00007,1,63.81,,0.0,0.0,0.0,
-2026-09-19,blocked,,CA,amazon,,FBA-10000-200-419-44,1,68.9,,0.0,0.0,0.0,
-2026-09-19,blocked,,CA,amazon,,FBA-10001-790-321-44,0,0.0,,0.0,0.0,0.0,
-2026-09-19,blocked,,CA,amazon,,FBA-1K000-790-00005,1,33.52,,0.0,0.0,0.0,
 2026-09-20,blocked,,CA,amazon,,FBA-10001-790-321-44,1,68.04,,0.0,0.0,0.0,
 2026-09-20,blocked,,CA,amazon,,FBA-14M00-001-00001,2,173.28,,0.0,0.0,0.0,
 2026-09-21,blocked,,CA,amazon,,10001-889-00014,2,133.21,,0.0,0.0,0.0,
@@ -21,4 +17,12 @@ Date,Shipping_City,Shipping_State,Shipping_Country,Platform,Source_Name,SKU,Quan
 2026-09-24,blocked,,CA,amazon,,1K000-889-00015,1,29.0,,0.0,0.0,0.0,
 2026-09-24,blocked,,CA,amazon,,FBA-10001-600-00003,1,67.31,,0.0,0.0,0.0,
 2026-09-24,blocked,,CA,amazon,,FBA-12005-200-221-51,1,72.19,,0.0,0.0,0.0,
-2026-09-25,blocked,,CA,amazon,,FBA-1K001-DT1-00001,1,38.07,Scale Umbrellas,0.835,0.236,5.1,Region CA: Open-Meteo forecast + archive (NWS not used) | Next-24h precip (Open-Meteo 24h model) 0.315 in (umbrella threshold 0.20 in; heavy 0.50 in) | Previous-24h rain (Open-Meteo archive) 0.012 in (residual threshold 0.50 in) | Daily max UV (Open-Meteo) 2.2 (threshold 8) | Triggered by: forecast precip ≥ 0.20 in
+2026-09-25,blocked,,CA,amazon,,14M01-900-00013,1,92.86,,0.0,0.0,0.0,
+2026-09-25,blocked,,CA,amazon,,1K00-310-00019-FBA,1,38.36,,0.0,0.0,0.0,
+2026-09-25,blocked,,CA,amazon,,1K000-732-00013,1,33.59,,0.0,0.0,0.0,
+2026-09-25,blocked,,CA,amazon,,1K000-889-00015,1,33.17,,0.0,0.0,0.0,
+2026-09-25,blocked,,CA,amazon,,1K001-900-00017,1,38.04,,0.0,0.0,0.0,
+2026-09-25,blocked,,CA,amazon,,FBA-14M00-001-00001,1,87.8,,0.0,0.0,0.0,
+2026-09-25,blocked,,CA,amazon,,FBA-1K001-DT1-00001,1,38.04,,0.0,0.0,0.0,
+2026-09-25,blocked,,CA,amazon,,FBA_11005-310-00002,1,81.94,,0.0,0.0,0.0,
+2026-09-25,blocked,,CA,amazon,,FBM-11005-001-221-55,1,81.94,,0.0,0.0,0.0,
